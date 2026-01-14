@@ -1,0 +1,36 @@
+{
+  "name": "celeb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "validate-dataset": "tsx scripts/validate-dataset.ts",
+    "test-api": "tsx scripts/test-api.ts",
+    "test-coverage": "tsx scripts/test-coverage.ts",
+    "test:unit": "tsx scripts/run-tests.ts",
+    "test": "tsx scripts/run-tests.ts && tsx scripts/test-coverage.ts && tsx scripts/validate-dataset.ts"
+  },
+  "dependencies": {
+    "@upstash/ratelimit": "^2.0.8",
+    "@upstash/redis": "^1.36.1",
+    "next": "16.1.1",
+    "openai": "^6.16.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

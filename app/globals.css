@@ -1,0 +1,214 @@
+@import "tailwindcss";
+
+:root {
+  /* Warm cream base - feels editorial, not clinical */
+  --background: #faf9f7;
+  --foreground: #1a1a1a;
+  
+  /* Accent colors - terracotta/rust for warmth */
+  --accent: #c45d3a;
+  --accent-light: #e8cdc2;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-light: var(--accent-light);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f0f0f;
+    --foreground: #f5f5f4;
+    --accent: #e07a5a;
+    --accent-light: #3d2a24;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+}
+
+/* Subtle texture background - feels premium */
+.bg-texture {
+  background-image: 
+    radial-gradient(circle at 25px 25px, rgba(0,0,0,0.02) 2%, transparent 0%),
+    radial-gradient(circle at 75px 75px, rgba(0,0,0,0.02) 2%, transparent 0%);
+  background-size: 100px 100px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .bg-texture {
+    background-image: 
+      radial-gradient(circle at 25px 25px, rgba(255,255,255,0.02) 2%, transparent 0%),
+      radial-gradient(circle at 75px 75px, rgba(255,255,255,0.02) 2%, transparent 0%);
+  }
+}
+
+/* Slider thumb styling */
+input[type="range"].slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type="range"].slider-thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--foreground);
+  cursor: pointer;
+  border: 4px solid var(--background);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.15s ease;
+}
+
+input[type="range"].slider-thumb::-webkit-slider-thumb:hover {
+  transform: scale(1.1);
+}
+
+input[type="range"].slider-thumb::-webkit-slider-thumb:active {
+  transform: scale(0.95);
+}
+
+input[type="range"].slider-thumb::-moz-range-thumb {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--foreground);
+  cursor: pointer;
+  border: 4px solid var(--background);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Focus styles for accessibility */
+input[type="range"].slider-thumb:focus {
+  outline: none;
+}
+
+input[type="range"].slider-thumb:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px var(--accent-light), 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Loading skeleton animation */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    #e7e5e4 0%,
+    #f5f5f4 50%,
+    #e7e5e4 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@media (prefers-color-scheme: dark) {
+  .skeleton {
+    background: linear-gradient(
+      90deg,
+      #262626 0%,
+      #3f3f46 50%,
+      #262626 100%
+    );
+    background-size: 200% 100%;
+  }
+}
+
+/* Page transition - subtle fade */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+/* Selection styling */
+::selection {
+  background: var(--accent-light);
+  color: var(--foreground);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better tap highlighting on mobile */
+@media (pointer: coarse) {
+  button, a {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Screen reader only - visually hidden but accessible */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Skip link for keyboard navigation */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--foreground);
+  color: var(--background);
+  padding: 8px 16px;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+}
