@@ -132,11 +132,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 119051,
-        "imagePath": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Wednesday at Loughborough.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Wednesday_at_Loughborough.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 119051,
+          "imagePath": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The deadpan expression is half the costume."
   },
@@ -700,11 +707,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 504109,
-        "imagePath": "/uO2EIQFDd5jRnAZZV2So8QPBvN3.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Elton John and David Furnish at the 2024 Toronto International Film Festival.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Elton_John_and_David_Furnish_at_the_2024_Toronto_International_Film_Festival.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 504109,
+          "imagePath": "/uO2EIQFDd5jRnAZZV2So8QPBvN3.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Go bigger than you think. The glasses ARE the costume."
   },
@@ -769,11 +783,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 9690,
-        "imagePath": "/uMKFhQDT6LPU51yfJmijWk17Hxg.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Coello-jeune prince.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Coello-jeune_prince.JPG"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 9690,
+          "imagePath": "/uMKFhQDT6LPU51yfJmijWk17Hxg.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The confidence and swagger are essential. Purple everything."
   },
@@ -1109,11 +1130,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 97546,
-        "imagePath": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Cast of Ted Lasso with Jill and Joe Biden (2023).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cast_of_Ted_Lasso_with_Jill_and_Joe_Biden_(2023).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 97546,
+          "imagePath": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The mustache and positive attitude are essential. Carry biscuits."
   },
@@ -1178,11 +1206,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 77338,
-        "imagePath": "/tPRNJssq3Pcy4v1N1ObaOH9i7V2.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Michael Jordan in 2014.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 77338,
+          "imagePath": "/tPRNJssq3Pcy4v1N1ObaOH9i7V2.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The jersey does all the work. Tongue out for photos."
   },
@@ -1247,9 +1282,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "The Referee - Portrait of H Walter Schlichter.png",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Referee_-_Portrait_of_H_Walter_Schlichter.png"
       }
     },
     "notes": "Make controversial calls all night for entertainment value."
@@ -1516,9 +1551,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "Giovanni Bellini, portrait of Doge Leonardo Loredan.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini%2C_portrait_of_Doge_Leonardo_Loredan.jpg"
       }
     },
     "notes": "Carry signs with doge-speak. 'Wow. Such Halloween. Very costume.'"
@@ -1957,11 +1992,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 2316,
-        "imagePath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Dwight Schrutes desk (3817582469).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dwight_Schrutes_desk_(3817582469).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 2316,
+          "imagePath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Stay in character. Answer everything with 'False' or beet facts."
   },
@@ -2174,11 +2216,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 66732,
-        "imagePath": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Jane Addams - Bain News Service.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jane_Addams_-_Bain_News_Service.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 66732,
+          "imagePath": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The nosebleed sells it. Carry Eggos everywhere."
   },
@@ -2243,9 +2292,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "Ralph Waldo Emerson ca1857 retouched.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ralph_Waldo_Emerson_ca1857_retouched.jpg"
       }
     },
     "notes": "Hide in crowds and let people find you. Interactive costume."
@@ -2389,11 +2438,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 4011,
-        "imagePath": "/pVGYlW4LDhV0fjrXF6s1DuCPYsY.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Beetlejuice, Beetlejuice-06550.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Beetlejuice%2C_Beetlejuice-06550.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 4011,
+          "imagePath": "/pVGYlW4LDhV0fjrXF6s1DuCPYsY.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Say the name three times. The moldier the look, the better."
   },
@@ -2601,11 +2657,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 11,
-        "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Expedition 45 'Return of the Jedi' crew poster.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Expedition_45_'Return_of_the_Jedi'_crew_poster.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 11,
+          "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The robe is the star. May the Force be with you."
   },
@@ -2747,11 +2810,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 337404,
-        "imagePath": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Cruella de Vil Panther.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cruella_de_Vil_Panther.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 337404,
+          "imagePath": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The wig is everything. Practice your cackle."
   },
@@ -3339,11 +3409,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 286567,
-        "imagePath": "/6w9QCNyg9KYMJjlBwLbtMWdKhMB.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Daft Punk in 2013 2- centered.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Daft_Punk_in_2013_2-_centered.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 286567,
+          "imagePath": "/6w9QCNyg9KYMJjlBwLbtMWdKhMB.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Best as a duo. The helmets can be expensive or DIY. Worth it."
   },
@@ -3705,11 +3782,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 76331,
-        "imagePath": "/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Studio of John Michael Wright - Portrait of James Fitzjames, Duke of Berwick.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Studio_of_John_Michael_Wright_-_Portrait_of_James_Fitzjames%2C_Duke_of_Berwick.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 76331,
+          "imagePath": "/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Make inappropriate jokes. Call everyone a nickname. Have visible daddy issues."
   },
@@ -3984,11 +4068,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1400,
-        "imagePath": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "T-bone-cooked-MCB.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:T-bone-cooked-MCB.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1400,
+          "imagePath": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Lie about being an architect or marine biologist. Complain constantly. Act like you're important."
   },
@@ -4053,11 +4144,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 4546,
-        "imagePath": "/lBGFkXgWsuEY5HGxGpGf2KREE5G.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Curb Your Enthusiasm - 3320193711.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Curb_Your_Enthusiasm_-_3320193711.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 4546,
+          "imagePath": "/lBGFkXgWsuEY5HGxGpGf2KREE5G.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Question every social norm. Get into petty arguments. Stare in disbelief constantly."
   },
@@ -4198,11 +4296,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1398,
-        "imagePath": "/6Cp3FI6416PNtLE6Y5rRJVKlHvb.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Tony Soprano (The Sopranos Family Tree).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tony_Soprano_(The_Sopranos_Family_Tree).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1398,
+          "imagePath": "/6Cp3FI6416PNtLE6Y5rRJVKlHvb.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Talk about your mother. Look emotionally vulnerable. Pick up the morning paper in a bathrobe."
   },
@@ -4343,11 +4448,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1396,
-        "imagePath": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Dry brush portrait of Walter White from Breaking Bad by SD (2015).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dry_brush_portrait_of_Walter_White_from_Breaking_Bad_by_SD_(2015).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1396,
+          "imagePath": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Look like you're about to make a terrible decision. Say 'I am the one who knocks' ironically."
   },
@@ -4412,11 +4524,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1396,
-        "imagePath": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Walter Francis White by Clara Sipprell.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Walter_Francis_White_by_Clara_Sipprell.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1396,
+          "imagePath": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The hat and goatee are everything. 'Say my name' energy."
   },
@@ -4558,9 +4677,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "A comic history of the United States (1880) (14761698024).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:A_comic_history_of_the_United_States_(1880)_(14761698024).jpg"
       }
     },
     "notes": "Act like an old-money gentleman. Casually mention you're 'just a peanut, really.' Very dry humor."
@@ -4991,9 +5110,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "DavidGogginsMay08.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:DavidGogginsMay08.jpg"
       }
     },
     "notes": "Tell everyone to stay hard. Call people out for being soft. Do random push-ups."
@@ -5127,11 +5246,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 2316,
-        "imagePath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Michael Ancher - Unfinished portrait of Adrian Stokes.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Michael_Ancher_-_Unfinished_portrait_of_Adrian_Stokes.JPG"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 2316,
+          "imagePath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Say 'That's what she said' constantly. Declare things as 'win-win-win.' Be obliviously offensive."
   },
@@ -5196,9 +5322,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "Donald Trump Marines April 2015.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_Marines_April_2015.jpg"
       }
     },
     "notes": "Look exhausted. Complain about working conditions. Ask if anyone wants fries with that."
@@ -5544,11 +5670,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 475557,
-        "imagePath": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Man with Halloween makeup fifty-fifty.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Man_with_Halloween_makeup_fifty-fifty.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 475557,
+          "imagePath": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Try very hard to be normal. Fail. Twitch occasionally. Laugh at inappropriate moments."
   },
@@ -5614,9 +5747,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "Nicoletto da Modena, Francis I of France as an Antique God, c. 1545, oil on panel, Paris, Bibliotheque Nationale.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nicoletto_da_Modena%2C_Francis_I_of_France_as_an_Antique_God%2C_c._1545%2C_oil_on_panel%2C_Paris%2C_Bibliotheque_Nationale.jpg"
       }
     },
     "notes": "Answer prayers vaguely. Say 'I work in mysterious ways' to every question. Be serene."
@@ -5682,11 +5815,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 31910,
-        "imagePath": "/oJOb7h2jH9aHLPMbEexfrQokfNx.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "San Diego Comic-Con 2011 - Platybus from Phineas and Ferb (5991539873).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2011_-_Platybus_from_Phineas_and_Ferb_(5991539873).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 31910,
+          "imagePath": "/oJOb7h2jH9aHLPMbEexfrQokfNx.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Do not speak. Just chatter like a platypus. Disappear and reappear mysteriously."
   },
@@ -6089,9 +6229,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
+        "kind": "wikimedia",
+        "fileTitle": "Pillsbury doughboy.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pillsbury_doughboy.jpg"
       }
     },
     "notes": "Giggle when poked. Look financially stressed (no dough - get it?). Very wholesome energy."
@@ -6657,11 +6797,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 93405,
-        "imagePath": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Squid Game player cosplay, Shibuya Halloween 2021 (October 31) (cropped).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Squid_Game_player_cosplay%2C_Shibuya_Halloween_2021_(October_31)_(cropped).jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 93405,
+          "imagePath": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Pick a number. Look stressed about your next game. Works great as group costume."
   },
@@ -6726,11 +6873,18 @@
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 93405,
-        "imagePath": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
-        "imageType": "poster"
-      }
+        "kind": "wikimedia",
+        "fileTitle": "Cosplay of Squid Game Guards at Sutera Cosplay Fest 2021.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Squid_Game_Guards_at_Sutera_Cosplay_Fest_2021.jpg"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 93405,
+          "imagePath": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Don't speak. Just point. The mask shape indicates your rank (circle is lowest)."
   },
@@ -8082,9 +8236,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Viral meme 2024"
+        "kind": "wikimedia",
+        "fileTitle": "Haliey Welch at DreamHack Atlanta 2024.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Haliey_Welch_at_DreamHack_Atlanta_2024.jpg"
       }
     },
     "notes": "You must be prepared to say the thing. Only works if people know the meme."
@@ -10013,9 +10167,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Brand mascot"
+        "kind": "wikimedia",
+        "fileTitle": "Uncle Tom (c. 1856) by Thomas Uwins.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Uncle_Tom_(c._1856)_by_Thomas_Uwins.jpg"
       }
     },
     "notes": "Retired mascot. Carry rice boxes. Edgy given the brand history discussions."
@@ -10078,9 +10232,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Brand mascot (retired)"
+        "kind": "wikimedia",
+        "fileTitle": "Aunt Jemima, AB Frost.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aunt_Jemima%2C_AB_Frost.jpg"
       }
     },
     "notes": "Retired mascot. Very controversial history. Carry pancake mix. Know your audience."
@@ -10431,9 +10585,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Pokemon (Nintendo)"
+        "kind": "wikimedia",
+        "fileTitle": "Saboten-Con Saturday Portraits - Pikachus from Pokemon.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Saboten-Con_Saturday_Portraits_-_Pikachus_from_Pokemon.jpg"
       }
     },
     "notes": "Say 'Pika pika!' a lot. The red cheeks are essential. Shock people (figuratively)."
@@ -10498,9 +10652,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "The Powerpuff Girls (Cartoon Network)"
+        "kind": "wikimedia",
+        "fileTitle": "Powerpuff girls redesigned.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Powerpuff_girls_redesigned.jpg"
       }
     },
     "notes": "The leader. Best as a group of 3 with Bubbles and Buttercup. Ice breath optional."
@@ -10565,9 +10719,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "The Powerpuff Girls (Cartoon Network)"
+        "kind": "wikimedia",
+        "fileTitle": "Powerpuff girls redesigned.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Powerpuff_girls_redesigned.jpg"
       }
     },
     "notes": "The sweet one. Talks to animals. Best as a group of 3."
@@ -10632,9 +10786,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "The Powerpuff Girls (Cartoon Network)"
+        "kind": "wikimedia",
+        "fileTitle": "Buttercup street art.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Buttercup_street_art.jpg"
       }
     },
     "notes": "The tough one. Look mean. Best as a group of 3. Punch stuff."
@@ -10700,9 +10854,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Scooby-Doo (Hanna-Barbera)"
+        "kind": "wikimedia",
+        "fileTitle": "Scooby Doo and pals - geograph.org.uk - 790860.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Scooby_Doo_and_pals_-_geograph.org.uk_-_790860.jpg"
       }
     },
     "notes": "Jinkies! Lose your glasses frequently. Solve mysteries. Very low effort, high recognition."
@@ -10767,9 +10921,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Winnie the Pooh (Disney)"
+        "kind": "wikimedia",
+        "fileTitle": "Abeille - Winnie l'ourson - 20150805 17h48 (11030).jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Abeille_-_Winnie_l'ourson_-_20150805_17h48_(11030).jpg"
       }
     },
     "notes": "The 'no pants' aspect is essential. Carry honey. Xi Jinping jokes at your own risk."
@@ -10969,9 +11123,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "McDonald's"
+        "kind": "wikimedia",
+        "fileTitle": "Donald Trump Marines April 2015.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_Marines_April_2015.jpg"
       }
     },
     "notes": "Ba da ba ba ba, I'm lovin' it. Creepy clown vibes if desired. Carry fries."
@@ -11035,9 +11189,9 @@
     },
     "images": {
       "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "McDonald's"
+        "kind": "wikimedia",
+        "fileTitle": "McDonalds Grimace Shake.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:McDonalds_Grimace_Shake.jpg"
       }
     },
     "notes": "The Grimace Shake meme made him relevant again. Carry a purple shake. Be round."

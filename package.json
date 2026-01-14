@@ -9,6 +9,7 @@
     "lint": "eslint",
     "validate-dataset": "tsx scripts/validate-dataset.ts",
     "populate-actors": "tsx scripts/populate-actor-images.ts",
+    "populate-wikimedia": "tsx scripts/populate-wikimedia-images.ts",
     "test-api": "tsx scripts/test-api.ts",
     "test-coverage": "tsx scripts/test-coverage.ts",
     "test:unit": "tsx scripts/run-tests.ts",
