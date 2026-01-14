@@ -3,9 +3,47 @@
  *
  * Ensures variety in recommendations.
  * Includes ensuring at least 1 funny/extreme option.
+ * Adds randomization to prevent same costumes appearing repeatedly.
  */
 
 import type { ScoredCostume } from "./score";
+
+/**
+ * Fisher-Yates shuffle for arrays
+ */
+function shuffleArray<T>(array: T[]): T[] {
+  const result = [...array];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+/**
+ * Add controlled randomization to candidate list.
+ * Shuffles candidates within score "buckets" to add variety
+ * while respecting relative ranking.
+ */
+export function addRandomShuffle(
+  candidates: ScoredCostume[],
+  bucketSize: number = 5
+): ScoredCostume[] {
+  if (candidates.length <= 3) {
+    return candidates;
+  }
+
+  const result: ScoredCostume[] = [];
+  
+  // Process in buckets (e.g., positions 0-4, 5-9, 10-14, etc.)
+  for (let i = 0; i < candidates.length; i += bucketSize) {
+    const bucket = candidates.slice(i, i + bucketSize);
+    const shuffled = shuffleArray(bucket);
+    result.push(...shuffled);
+  }
+
+  return result;
+}
 
 /**
  * Ensure diversity in candidate list.
@@ -110,7 +148,8 @@ export function ensureUniverseDiversity(
 
 /**
  * Ensure at least 1 funny/extreme costume in top 3.
- * If none exist in top 3, promote the highest-scoring funnyExtreme costume.
+ * If none exist in top 3, RANDOMLY select from top funnyExtreme candidates.
+ * This ensures variety - different absurd costumes show up each time.
  */
 export function ensureFunnyExtreme(
   candidates: ScoredCostume[]
@@ -127,17 +166,29 @@ export function ensureFunnyExtreme(
     return candidates; // Already have one
   }
 
-  // Find the highest-scoring funnyExtreme outside top 3
+  // Find ALL funnyExtreme costumes outside top 3
   const remaining = candidates.slice(3);
-  const funnyExtremeIndex = remaining.findIndex((c) => c.funnyExtreme);
+  const funnyExtremeIndices: number[] = [];
+  
+  for (let i = 0; i < remaining.length; i++) {
+    if (remaining[i].funnyExtreme) {
+      funnyExtremeIndices.push(i);
+    }
+  }
 
-  if (funnyExtremeIndex === -1) {
+  if (funnyExtremeIndices.length === 0) {
     return candidates; // No funnyExtreme costumes available
   }
 
-  // Swap the funnyExtreme into position 3 (replacing the 3rd spot)
+  // Pick randomly from the top 10 funnyExtreme candidates (or all if less than 10)
+  // This ensures variety while still favoring higher-scoring absurd costumes
+  const topAbsurdCount = Math.min(10, funnyExtremeIndices.length);
+  const topAbsurdIndices = funnyExtremeIndices.slice(0, topAbsurdCount);
+  const randomIndex = topAbsurdIndices[Math.floor(Math.random() * topAbsurdIndices.length)];
+
+  // Swap the randomly selected funnyExtreme into position 3
   const result = [...candidates];
-  const [funnyCandidate] = result.splice(3 + funnyExtremeIndex, 1);
+  const [funnyCandidate] = result.splice(3 + randomIndex, 1);
   result.splice(2, 0, funnyCandidate); // Insert at position 3
 
   return result;

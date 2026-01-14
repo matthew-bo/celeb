@@ -8,7 +8,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { QuizResponseSchema, type RecommendResponse } from "@/lib/schema";
 import { scoreAndRank } from "@/lib/score";
-import { ensureDiversity, ensureUniverseDiversity, ensureFunnyExtreme } from "@/lib/diversify";
+import { ensureDiversity, ensureUniverseDiversity, ensureFunnyExtreme, addRandomShuffle } from "@/lib/diversify";
 import { applyRelaxationLadder } from "@/lib/relax";
 import { generateRecommendations, enrichRecommendations } from "@/lib/llm";
 import { generateFallbackRecommendations } from "@/lib/fallback";
@@ -58,13 +58,19 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Score and rank
-    let candidates = scoreAndRank(filtered, quiz, 20);
+    // Score and rank - get more candidates for shuffling variety
+    let candidates = scoreAndRank(filtered, quiz, 30);
 
+    // Add randomization within score buckets for variety
+    candidates = addRandomShuffle(candidates, 5);
+    
     // Apply diversity rules
     candidates = ensureDiversity(candidates);
     candidates = ensureUniverseDiversity(candidates, quiz.universes);
     candidates = ensureFunnyExtreme(candidates);
+    
+    // Trim back to top 20 for LLM
+    candidates = candidates.slice(0, 20);
 
     // Try LLM generation, fall back to deterministic
     let mode: "llm" | "fallback" = "llm";

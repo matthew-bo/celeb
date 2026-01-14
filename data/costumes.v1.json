@@ -148,81 +148,6 @@
     "notes": "The deadpan expression is half the costume."
   },
   {
-    "id": "cos_dude_lebowski",
-    "name": "The Dude",
-    "displayTitle": "The Dude (The Big Lebowski)",
-    "universe": "movie",
-    "sourceTitle": "The Big Lebowski",
-    "era": "90s",
-    "vibes": {
-      "funny": 3,
-      "sexy": 0,
-      "stylish": 0,
-      "clever": 2,
-      "lowEffortHighPayoff": 3
-    },
-    "nicheScore": 3,
-    "genderPresentation": "masc",
-    "constraints": {
-      "effort": "one_item",
-      "budget": "lt_30",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Cardigan sweater",
-      "items": [
-        "Oversized cardigan",
-        "Baggy shorts or pajama pants",
-        "T-shirt",
-        "Sandals or jellies",
-        "Sunglasses"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "casual",
-        "lazy",
-        "cardigan",
-        "slacker"
-      ],
-      "vibeTags": [
-        "funny",
-        "comfortable",
-        "laid-back"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "tmdb_person",
-        "personId": 1229,
-        "personName": "Jeff Bridges"
-      },
-      "alternatives": [
-        {
-          "kind": "tmdb",
-          "tmdbId": 115,
-          "imagePath": "/a1kG4mFuRVwLEMG6FmS8GdBc8rN.jpg",
-          "imageType": "poster"
-        }
-      ]
-    },
-    "notes": "Carry a White Russian for the full effect. The bathrobe version exists but is less bar-friendly.",
-    "funnyExtreme": true
-  },
-  {
     "id": "cos_mia_wallace",
     "name": "Mia Wallace",
     "displayTitle": "Mia Wallace (Pulp Fiction)",
@@ -1431,74 +1356,6 @@
     "funnyExtreme": true
   },
   {
-    "id": "cos_npc",
-    "name": "NPC",
-    "displayTitle": "NPC (Non-Player Character)",
-    "universe": "internet",
-    "sourceTitle": "Video Game / Meme Culture",
-    "era": "current",
-    "vibes": {
-      "funny": 3,
-      "sexy": 0,
-      "stylish": 0,
-      "clever": 3,
-      "lowEffortHighPayoff": 3
-    },
-    "nicheScore": 4,
-    "genderPresentation": "flexible",
-    "constraints": {
-      "effort": "one_item",
-      "budget": "lt_30",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Plain gray outfit",
-      "items": [
-        "All gray outfit (shirt and pants)",
-        "Blank expression",
-        "Optional: floating exclamation mark prop above head",
-        "Optional: sign with generic NPC dialogue"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "meme",
-        "gaming",
-        "gray",
-        "minimal",
-        "absurd"
-      ],
-      "vibeTags": [
-        "funny",
-        "clever",
-        "easy",
-        "meta"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
-      }
-    },
-    "notes": "Stay in character. Repeat the same phrases. Move robotically.",
-    "funnyExtreme": true
-  },
-  {
     "id": "cos_doge",
     "name": "Doge",
     "displayTitle": "Doge (Shiba Inu Meme)",
@@ -2465,73 +2322,6 @@
     "funnyExtreme": true
   },
   {
-    "id": "cos_skeleton",
-    "name": "Skeleton",
-    "displayTitle": "Skeleton",
-    "universe": "movie",
-    "sourceTitle": "Classic",
-    "era": "any",
-    "vibes": {
-      "funny": 0,
-      "sexy": 1,
-      "stylish": 2,
-      "clever": 0,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 1,
-    "genderPresentation": "flexible",
-    "constraints": {
-      "effort": "few_fast",
-      "budget": "30_75",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Skeleton printed bodysuit or face paint",
-      "items": [
-        "All black outfit",
-        "Skeleton face paint OR skeleton bodysuit",
-        "Optional: glow-in-dark elements",
-        "Black gloves"
-      ],
-      "makeupLevel": "light",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "none"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "skeleton",
-        "black",
-        "classic",
-        "spooky",
-        "minimal"
-      ],
-      "vibeTags": [
-        "easy",
-        "versatile",
-        "comfortable",
-        "timeless"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "manual",
-        "url": "/placeholder-costume.svg",
-        "attribution": "Generic costume placeholder"
-      }
-    },
-    "notes": "Can be dressed up or down. Face paint only option works great."
-  },
-  {
     "id": "cos_maverick_topgun",
     "name": "Maverick",
     "displayTitle": "Maverick (Top Gun)",
@@ -3359,82 +3149,6 @@
       }
     },
     "notes": "Go cheap (painted cardboard) or expensive (3D printed). Both work."
-  },
-  {
-    "id": "cos_daftpunk",
-    "name": "Daft Punk",
-    "displayTitle": "Daft Punk",
-    "universe": "music",
-    "sourceTitle": "Daft Punk",
-    "era": "2000s",
-    "vibes": {
-      "funny": 0,
-      "sexy": 1,
-      "stylish": 3,
-      "clever": 2,
-      "lowEffortHighPayoff": 0
-    },
-    "nicheScore": 2,
-    "genderPresentation": "flexible",
-    "constraints": {
-      "effort": "suffer_for_bit",
-      "budget": "dont_care",
-      "comfort": "low",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Robot helmet (gold or silver)",
-      "items": [
-        "Daft Punk robot helmet (LED ideal)",
-        "Black leather jacket or blazer",
-        "Black shirt and pants",
-        "Gloves",
-        "Works best as duo"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "required"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "robot",
-        "helmet",
-        "electronic",
-        "duo",
-        "futuristic"
-      ],
-      "vibeTags": [
-        "stylish",
-        "iconic",
-        "commitment",
-        "cool"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "wikimedia",
-        "fileTitle": "Daft Punk in 2013 2- centered.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File:Daft_Punk_in_2013_2-_centered.jpg"
-      },
-      "alternatives": [
-        {
-          "kind": "tmdb",
-          "tmdbId": 286567,
-          "imagePath": "/6w9QCNyg9KYMJjlBwLbtMWdKhMB.jpg",
-          "imageType": "poster"
-        }
-      ]
-    },
-    "notes": "Best as a duo. The helmets can be expensive or DIY. Worth it."
   },
   {
     "id": "cos_tony_stark_casual",
@@ -6275,76 +5989,6 @@
     "funnyExtreme": true
   },
   {
-    "id": "cos_kendall_roy",
-    "name": "Kendall Roy",
-    "displayTitle": "Kendall Roy (Rap Battle Mode)",
-    "universe": "tv",
-    "sourceTitle": "Succession",
-    "era": "current",
-    "vibes": {
-      "funny": 3,
-      "sexy": 0,
-      "stylish": 2,
-      "clever": 2,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 3,
-    "genderPresentation": "masc",
-    "constraints": {
-      "effort": "few_fast",
-      "budget": "75_150",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Designer hoodie under expensive blazer",
-      "items": [
-        "Patagonia vest or designer hoodie",
-        "Expensive-looking sneakers",
-        "Airpods",
-        "Anxious energy",
-        "Optional: microphone for L to the OG performance"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "rich",
-        "anxious",
-        "tech-bro",
-        "hoodie",
-        "cringe"
-      ],
-      "vibeTags": [
-        "funny",
-        "current",
-        "quotable",
-        "dramatic"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "tmdb",
-        "tmdbId": 76331,
-        "imagePath": "/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg",
-        "imageType": "poster"
-      }
-    },
-    "notes": "Ready to perform L to the OG at any moment. Look like you're about to cry or kill someone.",
-    "funnyExtreme": true
-  },
-  {
     "id": "cos_shiv_roy",
     "name": "Shiv Roy",
     "displayTitle": "Shiv Roy",
@@ -7289,75 +6933,6 @@
     },
     "notes": "Offer profound advice from strange positions. Look like you've been played with too hard.",
     "funnyExtreme": true
-  },
-  {
-    "id": "cos_white_lotus_guest",
-    "name": "White Lotus Guest",
-    "displayTitle": "White Lotus Guest",
-    "universe": "tv",
-    "sourceTitle": "The White Lotus",
-    "era": "current",
-    "vibes": {
-      "funny": 2,
-      "sexy": 2,
-      "stylish": 3,
-      "clever": 2,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 3,
-    "genderPresentation": "flexible",
-    "constraints": {
-      "effort": "few_fast",
-      "budget": "75_150",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Resort wear and entitled attitude",
-      "items": [
-        "Expensive-looking resort wear (linen, white, beige)",
-        "Sun hat or designer sunglasses",
-        "Gold jewelry",
-        "Cocktail in hand",
-        "Look like you're ruining vacation for everyone"
-      ],
-      "makeupLevel": "light",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "wealthy",
-        "resort",
-        "linen",
-        "entitled",
-        "vacation"
-      ],
-      "vibeTags": [
-        "stylish",
-        "current",
-        "satirical",
-        "dark"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "tmdb",
-        "tmdbId": 134425,
-        "imagePath": "/wNx1dCwKQviVeMhRCPUCJLOjKnc.jpg",
-        "imageType": "poster"
-      }
-    },
-    "notes": "Complain about the service. Have a dark secret. Look like your vacation is actually miserable."
   },
   {
     "id": "cos_sbf_ftx",
@@ -8359,73 +7934,6 @@
     "notes": "The 2009-2011 era is most recognizable. Say 'Baby' a lot."
   },
   {
-    "id": "cos_justin_bieber_current",
-    "name": "Justin Bieber",
-    "displayTitle": "Justin Bieber (Crocs & Tattoos Era)",
-    "universe": "music",
-    "sourceTitle": "Pop Music",
-    "era": "current",
-    "vibes": {
-      "funny": 2,
-      "sexy": 1,
-      "stylish": 2,
-      "clever": 1,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 2,
-    "genderPresentation": "masc",
-    "constraints": {
-      "effort": "few_fast",
-      "budget": "30_75",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Drew House hoodie or oversized clothes",
-      "items": [
-        "Oversized hoodie (Drew House smiley face ideal)",
-        "Baggy pants",
-        "Crocs or Yeezys",
-        "Temporary tattoo sleeves",
-        "Beanie or bucket hat",
-        "Mustache (if you can)"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "none"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "pop-star",
-        "streetwear",
-        "tattoos",
-        "oversized",
-        "crocs"
-      ],
-      "vibeTags": [
-        "topical",
-        "comfortable",
-        "streetwear"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "wikimedia",
-        "fileTitle": "Justin_Bieber_in_2021.jpg"
-      }
-    },
-    "notes": "The Drew House smiley face is key. Look tired but fashionable."
-  },
-  {
     "id": "cos_kanye_west_ye",
     "name": "Kanye West",
     "displayTitle": "Kanye West (Ye Era)",
@@ -9364,72 +8872,6 @@
       ]
     },
     "notes": "The secret double life energy. Best of both worlds. Miley reference appreciated."
-  },
-  {
-    "id": "cos_obama",
-    "name": "Barack Obama",
-    "displayTitle": "Barack Obama (Tan Suit)",
-    "universe": "tv",
-    "sourceTitle": "Politics",
-    "era": "2000s",
-    "vibes": {
-      "funny": 2,
-      "sexy": 1,
-      "stylish": 2,
-      "clever": 2,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 2,
-    "genderPresentation": "masc",
-    "constraints": {
-      "effort": "few_fast",
-      "budget": "75_150",
-      "comfort": "high",
-      "barFriendly": true,
-      "pocketsLikely": true
-    },
-    "requirements": {
-      "anchorItem": "Tan suit",
-      "items": [
-        "Tan/beige suit",
-        "White dress shirt",
-        "Blue tie",
-        "American flag pin",
-        "Confident smile"
-      ],
-      "makeupLevel": "none",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": true,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "president",
-        "suit",
-        "politician",
-        "tan-suit",
-        "meme"
-      ],
-      "vibeTags": [
-        "political",
-        "topical",
-        "recognizable"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "wikimedia",
-        "fileTitle": "President_Barack_Obama.jpg"
-      }
-    },
-    "notes": "The tan suit scandal. Say 'Let me be clear' a lot. Michelle reference optional."
   },
   {
     "id": "cos_jesus",
@@ -11184,73 +10626,6 @@
     "funnyExtreme": true
   },
   {
-    "id": "cos_grimace",
-    "name": "Grimace",
-    "displayTitle": "Grimace (McDonald's)",
-    "universe": "tv",
-    "sourceTitle": "McDonald's",
-    "era": "current",
-    "vibes": {
-      "funny": 3,
-      "sexy": 0,
-      "stylish": 0,
-      "clever": 1,
-      "lowEffortHighPayoff": 2
-    },
-    "nicheScore": 2,
-    "genderPresentation": "flexible",
-    "constraints": {
-      "effort": "some_work",
-      "budget": "30_75",
-      "comfort": "medium",
-      "barFriendly": true,
-      "pocketsLikely": false
-    },
-    "requirements": {
-      "anchorItem": "All purple round costume",
-      "items": [
-        "Purple sweatsuit or purple dress",
-        "Purple face paint or mask optional",
-        "Round stuffed shape underneath",
-        "Blank happy expression"
-      ],
-      "makeupLevel": "light",
-      "wigRequired": false,
-      "facePaintRequired": false,
-      "propsLevel": "optional"
-    },
-    "safety": {
-      "cultureSpecific": false,
-      "religiousAttire": false,
-      "politicalFigure": false,
-      "controversial": false,
-      "skinToneChangeImplied": false
-    },
-    "similarity": {
-      "archetypeTags": [
-        "mascot",
-        "purple",
-        "round",
-        "mcdonalds",
-        "meme"
-      ],
-      "vibeTags": [
-        "funny",
-        "viral",
-        "topical"
-      ]
-    },
-    "images": {
-      "primary": {
-        "kind": "wikimedia",
-        "fileTitle": "McDonalds Grimace Shake.jpg",
-        "pageUrl": "https://commons.wikimedia.org/wiki/File:McDonalds_Grimace_Shake.jpg"
-      }
-    },
-    "notes": "The Grimace Shake meme made him relevant again. Carry a purple shake. Be round.",
-    "funnyExtreme": true
-  },
-  {
     "id": "cos_harambe",
     "name": "Harambe",
     "displayTitle": "Harambe (RIP)",
@@ -11536,5 +10911,1352 @@
       ]
     },
     "notes": "Best as a couples costume with Shrek. Can do martial arts moves."
+  },
+  {
+    "id": "cos_borat",
+    "name": "Borat",
+    "displayTitle": "Borat Sagdiyev",
+    "universe": "movie",
+    "sourceTitle": "Borat",
+    "era": "2000s",
+    "vibes": {
+      "funny": 3,
+      "sexy": 1,
+      "stylish": 0,
+      "clever": 2,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Gray suit",
+      "items": [
+        "Ill-fitting gray suit",
+        "Mustache (fake or real)",
+        "White dress shirt",
+        "Optional: mankini for the brave"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": true,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "suit",
+        "mustache",
+        "comedy",
+        "accent",
+        "sacha-baron-cohen"
+      ],
+      "vibeTags": [
+        "funny",
+        "quotable",
+        "iconic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 496,
+        "imagePath": "/gKhaOF3h2F8T0D27zpXsOhKbKnA.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Very nice! High five! The accent is mandatory. Prepare your catchphrases.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_austin_powers",
+    "name": "Austin Powers",
+    "displayTitle": "Austin Powers",
+    "universe": "movie",
+    "sourceTitle": "Austin Powers",
+    "era": "90s",
+    "vibes": {
+      "funny": 3,
+      "sexy": 2,
+      "stylish": 2,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Velvet suit in blue or crushed velvet",
+      "items": [
+        "Crushed velvet suit (blue, red, or purple)",
+        "Ruffled shirt",
+        "Thick-rimmed glasses",
+        "Austin Powers wig or styled hair",
+        "Fake teeth optional"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": true,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "60s",
+        "spy",
+        "velvet",
+        "groovy",
+        "glasses"
+      ],
+      "vibeTags": [
+        "funny",
+        "iconic",
+        "quotable"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 816,
+        "imagePath": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Yeah baby! Groovy! Do the finger guns. Practice your British accent.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_homer_simpson",
+    "name": "Homer Simpson",
+    "displayTitle": "Homer Simpson",
+    "universe": "tv",
+    "sourceTitle": "The Simpsons",
+    "era": "any",
+    "vibes": {
+      "funny": 3,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Yellow face paint and bald cap",
+      "items": [
+        "Yellow face paint or yellow morph suit",
+        "Bald cap with M-shaped hair",
+        "White polo shirt",
+        "Blue pants",
+        "Optional: donut prop"
+      ],
+      "makeupLevel": "heavy",
+      "wigRequired": false,
+      "facePaintRequired": true,
+      "propsLevel": "optional"
+    },
+    "requiresBodyPaintOrFullFacePaint": true,
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "cartoon",
+        "yellow",
+        "dad",
+        "bald",
+        "animated"
+      ],
+      "vibeTags": [
+        "funny",
+        "iconic",
+        "recognizable"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Homer_Simpson_2006.png"
+      }
+    },
+    "notes": "D'oh! Mmm... donuts. Carry a Duff beer can. Be lazy and lovable.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_hugh_hefner",
+    "name": "Hugh Hefner",
+    "displayTitle": "Hugh Hefner",
+    "universe": "tv",
+    "sourceTitle": "Playboy",
+    "era": "70s_80s",
+    "vibes": {
+      "funny": 2,
+      "sexy": 2,
+      "stylish": 2,
+      "clever": 1,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "one_item",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Silk robe",
+      "items": [
+        "Silk or velvet robe (red, black, or burgundy)",
+        "Pajamas or silk shirt underneath",
+        "Smoking pipe prop",
+        "Captains hat optional",
+        "Slippers"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": true,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "robe",
+        "playboy",
+        "loungewear",
+        "pipe",
+        "mansion"
+      ],
+      "vibeTags": [
+        "easy",
+        "comfortable",
+        "recognizable"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Hugh_Hefner_2010.jpg"
+      }
+    },
+    "notes": "Perfect excuse to wear pajamas to a party. Works great as couples costume with Playboy Bunny."
+  },
+  {
+    "id": "cos_playboy_bunny",
+    "name": "Playboy Bunny",
+    "displayTitle": "Playboy Bunny",
+    "universe": "tv",
+    "sourceTitle": "Playboy",
+    "era": "70s_80s",
+    "vibes": {
+      "funny": 1,
+      "sexy": 3,
+      "stylish": 2,
+      "clever": 0,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "femme",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Black corset bodysuit with bunny ears",
+      "items": [
+        "Black satin corset or bodysuit",
+        "Bunny ears headband",
+        "White cuffs and collar with bow tie",
+        "Bunny tail",
+        "Black heels or pumps",
+        "Sheer black tights"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "bunny",
+        "corset",
+        "retro",
+        "playboy",
+        "ears"
+      ],
+      "vibeTags": [
+        "sexy",
+        "classic",
+        "iconic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Playboy_Bunny.jpg"
+      }
+    },
+    "notes": "A Halloween classic. Great couples costume with Hugh Hefner."
+  },
+  {
+    "id": "cos_aang",
+    "name": "Aang",
+    "displayTitle": "Aang (Avatar: The Last Airbender)",
+    "universe": "tv",
+    "sourceTitle": "Avatar: The Last Airbender",
+    "era": "2000s",
+    "vibes": {
+      "funny": 1,
+      "sexy": 0,
+      "stylish": 2,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Orange and yellow monk robes with arrow tattoo",
+      "items": [
+        "Yellow and orange monk-style robes",
+        "Bald cap with blue arrow painted/drawn",
+        "Blue arrow on hands",
+        "Brown boots or sandals",
+        "Optional: glider staff prop"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": false,
+      "facePaintRequired": true,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "monk",
+        "bald",
+        "arrow",
+        "airbender",
+        "anime"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "beloved",
+        "heroic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 246,
+        "imagePath": "/cHFZA8Tlv03nKTrXXbfCzlhHDS.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "The blue arrow is essential. Practice your air bending poses."
+  },
+  {
+    "id": "cos_bonnie_blue",
+    "name": "Bonnie Blue",
+    "displayTitle": "Bonnie Blue",
+    "universe": "internet",
+    "sourceTitle": "Viral Content",
+    "era": "current",
+    "vibes": {
+      "funny": 2,
+      "sexy": 3,
+      "stylish": 2,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 4,
+    "genderPresentation": "femme",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Blue themed outfit",
+      "items": [
+        "Blue dress or top",
+        "Blue hair or blue wig",
+        "Blue accessories",
+        "Confident attitude"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": true,
+      "facePaintRequired": false,
+      "propsLevel": "none"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": true,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "internet",
+        "blue",
+        "viral",
+        "influencer"
+      ],
+      "vibeTags": [
+        "topical",
+        "controversial",
+        "current"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "manual",
+        "url": "/placeholder-costume.svg",
+        "attribution": "Generic costume placeholder"
+      }
+    },
+    "notes": "Very current, very topical. Blue is the signature look."
+  },
+  {
+    "id": "cos_waluigi",
+    "name": "Waluigi",
+    "displayTitle": "Waluigi",
+    "universe": "movie",
+    "sourceTitle": "Nintendo / Super Mario",
+    "era": "any",
+    "vibes": {
+      "funny": 3,
+      "sexy": 0,
+      "stylish": 1,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 3,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Purple overalls and cap with upside-down L",
+      "items": [
+        "Purple long-sleeve shirt",
+        "Black overalls",
+        "Purple cap with upside-down L",
+        "Brown mustache (long and pointy)",
+        "White gloves",
+        "Brown elf shoes optional"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "nintendo",
+        "villain",
+        "purple",
+        "mustache",
+        "gaming"
+      ],
+      "vibeTags": [
+        "funny",
+        "meme",
+        "gamer-culture"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Waluigi.png"
+      }
+    },
+    "notes": "WAAA! The eternal underdog. Never in Smash Bros. Be lanky and villainous.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_mario",
+    "name": "Mario",
+    "displayTitle": "Mario",
+    "universe": "movie",
+    "sourceTitle": "Nintendo / Super Mario",
+    "era": "any",
+    "vibes": {
+      "funny": 2,
+      "sexy": 0,
+      "stylish": 1,
+      "clever": 1,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 1,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Red cap with M logo",
+      "items": [
+        "Red long-sleeve shirt",
+        "Blue overalls",
+        "Red cap with M logo",
+        "Brown mustache",
+        "White gloves"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "nintendo",
+        "plumber",
+        "red",
+        "mustache",
+        "gaming"
+      ],
+      "vibeTags": [
+        "iconic",
+        "recognizable",
+        "classic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 502356,
+        "imagePath": "/qNBAXBIQlnOThrVvA6mA2B5ber9.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "It's-a me, Mario! Great couples costume with Luigi, Peach, or Waluigi."
+  },
+  {
+    "id": "cos_magic_mike",
+    "name": "Magic Mike",
+    "displayTitle": "Magic Mike",
+    "universe": "movie",
+    "sourceTitle": "Magic Mike",
+    "era": "current",
+    "vibes": {
+      "funny": 2,
+      "sexy": 3,
+      "stylish": 2,
+      "clever": 1,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "one_item",
+      "budget": "lt_30",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Breakaway pants or fitted pants with vest",
+      "items": [
+        "Fitted vest or no shirt",
+        "Breakaway pants or tight pants",
+        "Bow tie collar",
+        "Baby oil optional",
+        "Confident attitude required"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "none"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "stripper",
+        "dancer",
+        "shirtless",
+        "bowtie",
+        "channing-tatum"
+      ],
+      "vibeTags": [
+        "sexy",
+        "bold",
+        "attention-getting"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 77862,
+        "imagePath": "/r7SndvqAkD3FTSPzDSbLVNwFYsp.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Hit the gym beforehand. Be ready to dance. Bring dollar bills."
+  },
+  {
+    "id": "cos_dora_explorer",
+    "name": "Dora the Explorer",
+    "displayTitle": "Dora the Explorer",
+    "universe": "tv",
+    "sourceTitle": "Dora the Explorer",
+    "era": "2000s",
+    "vibes": {
+      "funny": 2,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 1,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 1,
+    "genderPresentation": "femme",
+    "constraints": {
+      "effort": "one_item",
+      "budget": "lt_30",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Pink t-shirt and orange shorts",
+      "items": [
+        "Pink t-shirt",
+        "Orange shorts",
+        "Purple backpack",
+        "Bob haircut or brown wig",
+        "White sneakers"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "cartoon",
+        "explorer",
+        "backpack",
+        "kids-show",
+        "bilingual"
+      ],
+      "vibeTags": [
+        "easy",
+        "recognizable",
+        "nostalgic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Dora_the_Explorer_logo.svg"
+      }
+    },
+    "notes": "Ask everyone if they can find things. SWIPER NO SWIPING!"
+  },
+  {
+    "id": "cos_bob_builder",
+    "name": "Bob the Builder",
+    "displayTitle": "Bob the Builder",
+    "universe": "tv",
+    "sourceTitle": "Bob the Builder",
+    "era": "2000s",
+    "vibes": {
+      "funny": 2,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 1,
+      "lowEffortHighPayoff": 3
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "one_item",
+      "budget": "lt_30",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Yellow hard hat and tool belt",
+      "items": [
+        "Yellow hard hat",
+        "Blue jeans or overalls",
+        "Checkered flannel shirt",
+        "Tool belt",
+        "Work boots"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "construction",
+        "hardhat",
+        "tools",
+        "kids-show",
+        "worker"
+      ],
+      "vibeTags": [
+        "easy",
+        "nostalgic",
+        "recognizable"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Bob_the_Builder_logo.svg"
+      }
+    },
+    "notes": "Can we fix it? YES WE CAN! Carry a toy hammer."
+  },
+  {
+    "id": "cos_joe_exotic",
+    "name": "Joe Exotic",
+    "displayTitle": "Joe Exotic (Tiger King)",
+    "universe": "tv",
+    "sourceTitle": "Tiger King",
+    "era": "current",
+    "vibes": {
+      "funny": 3,
+      "sexy": 1,
+      "stylish": 1,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Sequin shirt with tiger print",
+      "items": [
+        "Sequin or bedazzled button-up shirt",
+        "Blonde mullet wig",
+        "Fake mustache and goatee",
+        "Gun holster optional",
+        "Cowboy hat",
+        "Tiger print accessories"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": true,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": true,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "mullet",
+        "tiger",
+        "sequin",
+        "documentary",
+        "eccentric"
+      ],
+      "vibeTags": [
+        "funny",
+        "quotable",
+        "topical"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 100698,
+        "imagePath": "/u6xr91ewMt7VVbARolL8aTIGCEK.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "I will never financially recover from this. Talk about Carole Baskin constantly.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_eric_cartman",
+    "name": "Eric Cartman",
+    "displayTitle": "Eric Cartman (South Park)",
+    "universe": "tv",
+    "sourceTitle": "South Park",
+    "era": "any",
+    "vibes": {
+      "funny": 3,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "masc",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "high",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Red jacket and blue hat with yellow pom-pom",
+      "items": [
+        "Red jacket or hoodie",
+        "Blue and yellow beanie with pom-pom",
+        "Brown pants",
+        "Optional: stuffing for roundness",
+        "Yellow mittens"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "none"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": true,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "cartoon",
+        "hat",
+        "kid",
+        "animated",
+        "south-park"
+      ],
+      "vibeTags": [
+        "funny",
+        "quotable",
+        "edgy"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Eric_Cartman.png"
+      }
+    },
+    "notes": "Respect my authoritah! Screw you guys, I'm going home. Perfect for groups with other South Park characters.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_bugs_bunny",
+    "name": "Bugs Bunny",
+    "displayTitle": "Bugs Bunny",
+    "universe": "movie",
+    "sourceTitle": "Looney Tunes",
+    "era": "any",
+    "vibes": {
+      "funny": 2,
+      "sexy": 0,
+      "stylish": 1,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Gray bunny suit with ears",
+      "items": [
+        "Gray bunny onesie or gray outfit",
+        "Long bunny ears headband",
+        "White belly patch",
+        "Carrot prop",
+        "White gloves"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "bunny",
+        "cartoon",
+        "gray",
+        "carrot",
+        "looney-tunes"
+      ],
+      "vibeTags": [
+        "classic",
+        "funny",
+        "iconic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 379686,
+        "imagePath": "/hu40Ber4GZpMqJ5n8IZQXHZB2YS.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Eh, what's up doc? Chew on a carrot constantly. Be smug."
+  },
+  {
+    "id": "cos_marilyn_monroe",
+    "name": "Marilyn Monroe",
+    "displayTitle": "Marilyn Monroe",
+    "universe": "movie",
+    "sourceTitle": "Old Hollywood",
+    "era": "70s_80s",
+    "vibes": {
+      "funny": 0,
+      "sexy": 3,
+      "stylish": 3,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "femme",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "White halter dress",
+      "items": [
+        "White halter dress (iconic subway grate scene)",
+        "Blonde curly wig",
+        "Red lipstick",
+        "Beauty mark",
+        "White heels"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": true,
+      "facePaintRequired": false,
+      "propsLevel": "none"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "hollywood",
+        "blonde",
+        "dress",
+        "glamour",
+        "vintage"
+      ],
+      "vibeTags": [
+        "sexy",
+        "iconic",
+        "glamorous"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Marilyn_Monroe_in_1952.jpg"
+      }
+    },
+    "notes": "The white dress subway grate moment is iconic. Happy birthday, Mr. President..."
+  },
+  {
+    "id": "cos_cookie_monster",
+    "name": "Cookie Monster",
+    "displayTitle": "Cookie Monster (Sesame Street)",
+    "universe": "tv",
+    "sourceTitle": "Sesame Street",
+    "era": "any",
+    "vibes": {
+      "funny": 3,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Blue fuzzy costume",
+      "items": [
+        "Blue fuzzy hoodie or full costume",
+        "Googly eye headband",
+        "Blue face paint optional",
+        "Cookie props"
+      ],
+      "makeupLevel": "light",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "muppet",
+        "blue",
+        "fuzzy",
+        "googly-eyes",
+        "kids-show"
+      ],
+      "vibeTags": [
+        "funny",
+        "cute",
+        "recognizable"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "wikimedia",
+        "fileTitle": "Cookie_Monster.png"
+      }
+    },
+    "notes": "ME WANT COOKIE! OM NOM NOM NOM. Eat everything in sight.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_chick_fil_a_cow",
+    "name": "Chick-fil-A Cow",
+    "displayTitle": "Chick-fil-A Cow",
+    "universe": "tv",
+    "sourceTitle": "Chick-fil-A Advertising",
+    "era": "current",
+    "vibes": {
+      "funny": 3,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 2,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Cow costume with EAT MOR CHIKIN sign",
+      "items": [
+        "Cow onesie or black and white spotted outfit",
+        "Cow ears headband",
+        "Cardboard sign reading EAT MOR CHIKIN",
+        "Cow nose optional"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": false,
+      "facePaintRequired": false,
+      "propsLevel": "required"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "cow",
+        "mascot",
+        "fast-food",
+        "sign",
+        "advertising"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "american"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "manual",
+        "url": "/placeholder-costume.svg",
+        "attribution": "Generic costume placeholder"
+      }
+    },
+    "notes": "The sign is essential. Intentional misspelling required. Advocate loudly for chicken.",
+    "funnyExtreme": true
+  },
+  {
+    "id": "cos_smurf",
+    "name": "Smurf",
+    "displayTitle": "Smurf",
+    "universe": "movie",
+    "sourceTitle": "The Smurfs",
+    "era": "70s_80s",
+    "vibes": {
+      "funny": 2,
+      "sexy": 0,
+      "stylish": 0,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 2,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": true
+    },
+    "requirements": {
+      "anchorItem": "Blue body paint and white hat",
+      "items": [
+        "Blue face and body paint",
+        "White smurf hat (Phrygian cap)",
+        "White pants or shorts",
+        "Optional: character-specific accessories (Smurfette blonde wig, Papa Smurf red outfit)"
+      ],
+      "makeupLevel": "heavy",
+      "wigRequired": false,
+      "facePaintRequired": true,
+      "propsLevel": "none"
+    },
+    "requiresBodyPaintOrFullFacePaint": true,
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "blue",
+        "tiny",
+        "cartoon",
+        "hat",
+        "village"
+      ],
+      "vibeTags": [
+        "classic",
+        "nostalgic",
+        "group-costume"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 14241,
+        "imagePath": "/kB7sW0XP7K6W9sRJZuzOGJPKON3.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Great for groups. Replace words with 'smurf'. Be smurfy!"
+  },
+  {
+    "id": "cos_sonic",
+    "name": "Sonic",
+    "displayTitle": "Sonic the Hedgehog",
+    "universe": "movie",
+    "sourceTitle": "Sonic the Hedgehog",
+    "era": "any",
+    "vibes": {
+      "funny": 1,
+      "sexy": 0,
+      "stylish": 1,
+      "clever": 1,
+      "lowEffortHighPayoff": 2
+    },
+    "nicheScore": 1,
+    "genderPresentation": "flexible",
+    "constraints": {
+      "effort": "few_fast",
+      "budget": "30_75",
+      "comfort": "medium",
+      "barFriendly": true,
+      "pocketsLikely": false
+    },
+    "requirements": {
+      "anchorItem": "Blue hedgehog costume with spikes",
+      "items": [
+        "Blue body suit or blue outfit",
+        "Blue spiked wig or headpiece",
+        "Red shoes",
+        "White gloves",
+        "Gold ring props optional"
+      ],
+      "makeupLevel": "none",
+      "wigRequired": true,
+      "facePaintRequired": false,
+      "propsLevel": "optional"
+    },
+    "safety": {
+      "cultureSpecific": false,
+      "religiousAttire": false,
+      "politicalFigure": false,
+      "controversial": false,
+      "skinToneChangeImplied": false
+    },
+    "similarity": {
+      "archetypeTags": [
+        "hedgehog",
+        "blue",
+        "fast",
+        "gaming",
+        "sega"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "iconic",
+        "nostalgic"
+      ]
+    },
+    "images": {
+      "primary": {
+        "kind": "tmdb",
+        "tmdbId": 454626,
+        "imagePath": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "imageType": "poster"
+      }
+    },
+    "notes": "Gotta go fast! Run everywhere. Collect imaginary rings."
   }
 ]
