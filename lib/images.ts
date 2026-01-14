@@ -85,6 +85,53 @@ async function resolveTmdb(
 }
 
 /**
+ * Resolve TMDB person (actor) image source to URL
+ */
+async function resolveTmdbPerson(
+  source: Extract<ImageSource, { kind: "tmdb_person" }>
+): Promise<ResolvedImage | null> {
+  const apiKey = process.env.TMDB_API_KEY;
+  if (!apiKey) {
+    console.warn("TMDB_API_KEY not configured");
+    return null;
+  }
+
+  try {
+    // Fetch person details to get profile_path
+    const response = await fetch(
+      `https://api.themoviedb.org/3/person/${source.personId}?api_key=${apiKey}`
+    );
+
+    if (!response.ok) {
+      console.error(`TMDB person fetch failed: ${response.status}`);
+      return null;
+    }
+
+    const data = await response.json();
+    
+    if (!data.profile_path) {
+      console.warn(`No profile image for person ${source.personId}`);
+      return null;
+    }
+
+    const config = await getTmdbConfig();
+    if (!config) return null;
+
+    // Use w500 size for profile photos
+    const size = config.posterSizes.includes("w500") ? "w500" : "w342";
+
+    return {
+      url: `${config.baseUrl}${size}${data.profile_path}`,
+      attributionText: `Photo of ${source.personName} via TMDB`,
+      attributionLink: `https://www.themoviedb.org/person/${source.personId}`,
+    };
+  } catch (error) {
+    console.error("Failed to fetch TMDB person:", error);
+    return null;
+  }
+}
+
+/**
  * Resolve Wikimedia Commons image source to URL
  */
 function resolveWikimedia(
@@ -124,6 +171,8 @@ export async function resolveImage(
   switch (source.kind) {
     case "tmdb":
       return resolveTmdb(source);
+    case "tmdb_person":
+      return resolveTmdbPerson(source);
     case "wikimedia":
       return resolveWikimedia(source);
     case "manual":

@@ -43,16 +43,33 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "sunglasses", "leather", "cool", "minimalist"],
-      "vibeTags": ["stylish", "recognizable", "iconic"]
+      "archetypeTags": [
+        "suit",
+        "sunglasses",
+        "leather",
+        "cool",
+        "minimalist"
+      ],
+      "vibeTags": [
+        "stylish",
+        "recognizable",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 603,
-        "imagePath": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 2975,
+        "personName": "Laurence Fishburne"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 603,
+          "imagePath": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The sunglasses are essential. Without them, you're just a guy in a coat."
   },
@@ -100,8 +117,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["goth", "dress", "minimal", "dark"],
-      "vibeTags": ["easy", "recognizable", "iconic", "comfortable"]
+      "archetypeTags": [
+        "goth",
+        "dress",
+        "minimal",
+        "dark"
+      ],
+      "vibeTags": [
+        "easy",
+        "recognizable",
+        "iconic",
+        "comfortable"
+      ]
     },
     "images": {
       "primary": {
@@ -158,16 +185,32 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["casual", "lazy", "cardigan", "slacker"],
-      "vibeTags": ["funny", "comfortable", "laid-back"]
+      "archetypeTags": [
+        "casual",
+        "lazy",
+        "cardigan",
+        "slacker"
+      ],
+      "vibeTags": [
+        "funny",
+        "comfortable",
+        "laid-back"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 115,
-        "imagePath": "/a1kG4mFuRVwLEMG6FmS8GdBc8rN.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 1229,
+        "personName": "Jeff Bridges"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 115,
+          "imagePath": "/a1kG4mFuRVwLEMG6FmS8GdBc8rN.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Carry a White Russian for the full effect. The bathrobe version exists but is less bar-friendly."
   },
@@ -216,16 +259,32 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["minimalist", "90s", "classic", "dance"],
-      "vibeTags": ["sexy", "stylish", "iconic"]
+      "archetypeTags": [
+        "minimalist",
+        "90s",
+        "classic",
+        "dance"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 680,
-        "imagePath": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 139,
+        "personName": "Uma Thurman"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 680,
+          "imagePath": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The dance moves from the movie are optional but highly recommended."
   },
@@ -274,16 +333,32 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pink", "pastel", "preppy", "beach"],
-      "vibeTags": ["funny", "current", "recognizable"]
+      "archetypeTags": [
+        "pink",
+        "pastel",
+        "preppy",
+        "beach"
+      ],
+      "vibeTags": [
+        "funny",
+        "current",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 346698,
-        "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 30614,
+        "personName": "Ryan Gosling"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 346698,
+          "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The 'I am Kenough' hoodie version is also valid. Commit to the confidence."
   },
@@ -332,16 +407,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tank", "jeans", "rock", "performer", "mustache"],
-      "vibeTags": ["iconic", "easy", "recognizable", "classic"]
+      "archetypeTags": [
+        "tank",
+        "jeans",
+        "rock",
+        "performer",
+        "mustache"
+      ],
+      "vibeTags": [
+        "iconic",
+        "easy",
+        "recognizable",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 424694,
-        "imagePath": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 17838,
+        "personName": "Rami Malek"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 424694,
+          "imagePath": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The mustache and the confidence are what sell this. Commit to the energy."
   },
@@ -390,8 +483,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop", "iconic", "bold", "80s", "performer"],
-      "vibeTags": ["sexy", "stylish", "dramatic", "commitment"]
+      "archetypeTags": [
+        "pop",
+        "iconic",
+        "bold",
+        "80s",
+        "performer"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "dramatic",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -446,8 +550,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["grunge", "flannel", "90s", "rock", "casual"],
-      "vibeTags": ["easy", "comfortable", "nostalgic", "iconic"]
+      "archetypeTags": [
+        "grunge",
+        "flannel",
+        "90s",
+        "rock",
+        "casual"
+      ],
+      "vibeTags": [
+        "easy",
+        "comfortable",
+        "nostalgic",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
@@ -502,8 +617,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["schoolgirl", "pop", "90s", "iconic", "pigtails"],
-      "vibeTags": ["sexy", "recognizable", "nostalgic", "fun"]
+      "archetypeTags": [
+        "schoolgirl",
+        "pop",
+        "90s",
+        "iconic",
+        "pigtails"
+      ],
+      "vibeTags": [
+        "sexy",
+        "recognizable",
+        "nostalgic",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -558,8 +684,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["glam", "sequins", "sunglasses", "70s", "flamboyant"],
-      "vibeTags": ["stylish", "bold", "fun", "dramatic"]
+      "archetypeTags": [
+        "glam",
+        "sequins",
+        "sunglasses",
+        "70s",
+        "flamboyant"
+      ],
+      "vibeTags": [
+        "stylish",
+        "bold",
+        "fun",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
@@ -616,8 +753,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["purple", "80s", "glam", "androgynous", "performer"],
-      "vibeTags": ["sexy", "stylish", "iconic", "bold"]
+      "archetypeTags": [
+        "purple",
+        "80s",
+        "glam",
+        "androgynous",
+        "performer"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "iconic",
+        "bold"
+      ]
     },
     "images": {
       "primary": {
@@ -674,8 +822,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["sparkle", "pop", "performer", "boots", "sequins"],
-      "vibeTags": ["current", "recognizable", "stylish", "fun"]
+      "archetypeTags": [
+        "sparkle",
+        "pop",
+        "performer",
+        "boots",
+        "sequins"
+      ],
+      "vibeTags": [
+        "current",
+        "recognizable",
+        "stylish",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -730,8 +889,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["colorful", "70s", "vest", "pearls", "androgynous"],
-      "vibeTags": ["stylish", "current", "fun", "comfortable"]
+      "archetypeTags": [
+        "colorful",
+        "70s",
+        "vest",
+        "pearls",
+        "androgynous"
+      ],
+      "vibeTags": [
+        "stylish",
+        "current",
+        "fun",
+        "comfortable"
+      ]
     },
     "images": {
       "primary": {
@@ -787,8 +957,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["80s", "fitness", "shorts", "energetic", "retro"],
-      "vibeTags": ["funny", "easy", "comfortable", "nostalgic"]
+      "archetypeTags": [
+        "80s",
+        "fitness",
+        "shorts",
+        "energetic",
+        "retro"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "comfortable",
+        "nostalgic"
+      ]
     },
     "images": {
       "primary": {
@@ -844,8 +1025,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["neon", "80s", "fitness", "leotard", "retro"],
-      "vibeTags": ["funny", "sexy", "nostalgic", "fun"]
+      "archetypeTags": [
+        "neon",
+        "80s",
+        "fitness",
+        "leotard",
+        "retro"
+      ],
+      "vibeTags": [
+        "funny",
+        "sexy",
+        "nostalgic",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -901,8 +1093,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["coach", "sports", "mustache", "wholesome", "uniform"],
-      "vibeTags": ["funny", "easy", "current", "comfortable"]
+      "archetypeTags": [
+        "coach",
+        "sports",
+        "mustache",
+        "wholesome",
+        "uniform"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "current",
+        "comfortable"
+      ]
     },
     "images": {
       "primary": {
@@ -959,8 +1162,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["jersey", "basketball", "athlete", "90s", "iconic"],
-      "vibeTags": ["easy", "recognizable", "comfortable", "sporty"]
+      "archetypeTags": [
+        "jersey",
+        "basketball",
+        "athlete",
+        "90s",
+        "iconic"
+      ],
+      "vibeTags": [
+        "easy",
+        "recognizable",
+        "comfortable",
+        "sporty"
+      ]
     },
     "images": {
       "primary": {
@@ -1017,8 +1231,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["stripes", "uniform", "whistle", "sports", "simple"],
-      "vibeTags": ["easy", "universal", "comfortable", "functional"]
+      "archetypeTags": [
+        "stripes",
+        "uniform",
+        "whistle",
+        "sports",
+        "simple"
+      ],
+      "vibeTags": [
+        "easy",
+        "universal",
+        "comfortable",
+        "functional"
+      ]
     },
     "images": {
       "primary": {
@@ -1074,8 +1299,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "winter", "grumpy", "viral", "political"],
-      "vibeTags": ["funny", "clever", "easy", "current"]
+      "archetypeTags": [
+        "meme",
+        "winter",
+        "grumpy",
+        "viral",
+        "political"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "easy",
+        "current"
+      ]
     },
     "images": {
       "primary": {
@@ -1130,8 +1366,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "dog", "fire", "absurd", "internet"],
-      "vibeTags": ["funny", "clever", "current", "commitment"]
+      "archetypeTags": [
+        "meme",
+        "dog",
+        "fire",
+        "absurd",
+        "internet"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "current",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -1186,8 +1433,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "gaming", "gray", "minimal", "absurd"],
-      "vibeTags": ["funny", "clever", "easy", "meta"]
+      "archetypeTags": [
+        "meme",
+        "gaming",
+        "gray",
+        "minimal",
+        "absurd"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "easy",
+        "meta"
+      ]
     },
     "images": {
       "primary": {
@@ -1242,8 +1500,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "dog", "internet", "absurd", "cute"],
-      "vibeTags": ["funny", "nostalgic", "recognizable", "fun"]
+      "archetypeTags": [
+        "meme",
+        "dog",
+        "internet",
+        "absurd",
+        "cute"
+      ],
+      "vibeTags": [
+        "funny",
+        "nostalgic",
+        "recognizable",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -1299,16 +1568,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["80s", "vest", "jeans", "time-travel", "classic"],
-      "vibeTags": ["recognizable", "nostalgic", "comfortable", "iconic"]
+      "archetypeTags": [
+        "80s",
+        "vest",
+        "jeans",
+        "time-travel",
+        "classic"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "nostalgic",
+        "comfortable",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 105,
-        "imagePath": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 521,
+        "personName": "Michael J. Fox"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 105,
+          "imagePath": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The vest is the whole costume. Say 'This is heavy' a lot."
   },
@@ -1357,16 +1644,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["80s", "vest", "leather", "cool", "preppy"],
-      "vibeTags": ["funny", "clever", "stylish", "nostalgic"]
+      "archetypeTags": [
+        "80s",
+        "vest",
+        "leather",
+        "cool",
+        "preppy"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "stylish",
+        "nostalgic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 9377,
-        "imagePath": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 4756,
+        "personName": "Matthew Broderick"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 9377,
+          "imagePath": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The attitude is everything. You're charming and you know it."
   },
@@ -1415,8 +1720,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["80s", "underwear", "minimal", "iconic", "dance"],
-      "vibeTags": ["funny", "sexy", "easy", "classic"]
+      "archetypeTags": [
+        "80s",
+        "underwear",
+        "minimal",
+        "iconic",
+        "dance"
+      ],
+      "vibeTags": [
+        "funny",
+        "sexy",
+        "easy",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
@@ -1473,16 +1789,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["nerd", "2000s", "awkward", "glasses", "iconic"],
-      "vibeTags": ["funny", "easy", "nostalgic", "quotable"]
+      "archetypeTags": [
+        "nerd",
+        "2000s",
+        "awkward",
+        "glasses",
+        "iconic"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "nostalgic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 8193,
-        "imagePath": "/mPsxypvW4TiaCLYNc9V1MiziDnF.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 53926,
+        "personName": "Jon Heder"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 8193,
+          "imagePath": "/mPsxypvW4TiaCLYNc9V1MiziDnF.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Practice the dance. Say 'GOSH' a lot. Offer people tots."
   },
@@ -1531,16 +1865,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pink", "2000s", "preppy", "queen bee", "blonde"],
-      "vibeTags": ["funny", "stylish", "iconic", "quotable"]
+      "archetypeTags": [
+        "pink",
+        "2000s",
+        "preppy",
+        "queen bee",
+        "blonde"
+      ],
+      "vibeTags": [
+        "funny",
+        "stylish",
+        "iconic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 10625,
-        "imagePath": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 53714,
+        "personName": "Rachel McAdams"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 10625,
+          "imagePath": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The attitude is everything. You're not a regular costume, you're a cool costume."
   },
@@ -1589,8 +1941,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["office", "nerd", "glasses", "2000s", "awkward"],
-      "vibeTags": ["funny", "easy", "quotable", "recognizable"]
+      "archetypeTags": [
+        "office",
+        "nerd",
+        "glasses",
+        "2000s",
+        "awkward"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "quotable",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -1649,16 +2012,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pirate", "beads", "eyeliner", "drunk", "swagger"],
-      "vibeTags": ["iconic", "fun", "quotable", "commitment"]
+      "archetypeTags": [
+        "pirate",
+        "beads",
+        "eyeliner",
+        "drunk",
+        "swagger"
+      ],
+      "vibeTags": [
+        "iconic",
+        "fun",
+        "quotable",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 22,
-        "imagePath": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 85,
+        "personName": "Johnny Depp"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 22,
+          "imagePath": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The eyeliner and the drunk swagger are essential. Why is the rum gone?"
   },
@@ -1707,8 +2088,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["jumpsuit", "80s", "uniform", "team", "iconic"],
-      "vibeTags": ["recognizable", "comfortable", "classic", "fun"]
+      "archetypeTags": [
+        "jumpsuit",
+        "80s",
+        "uniform",
+        "team",
+        "iconic"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "comfortable",
+        "classic",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -1766,8 +2158,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["80s", "retro", "supernatural", "pink", "iconic"],
-      "vibeTags": ["recognizable", "current", "nostalgic", "easy"]
+      "archetypeTags": [
+        "80s",
+        "retro",
+        "supernatural",
+        "pink",
+        "iconic"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "current",
+        "nostalgic",
+        "easy"
+      ]
     },
     "images": {
       "primary": {
@@ -1824,8 +2227,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["stripes", "glasses", "beanie", "red", "simple"],
-      "vibeTags": ["easy", "recognizable", "fun", "universal"]
+      "archetypeTags": [
+        "stripes",
+        "glasses",
+        "beanie",
+        "red",
+        "simple"
+      ],
+      "vibeTags": [
+        "easy",
+        "recognizable",
+        "fun",
+        "universal"
+      ]
     },
     "images": {
       "primary": {
@@ -1884,16 +2298,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["villain", "suit", "makeup", "purple", "chaos"],
-      "vibeTags": ["iconic", "commitment", "dramatic", "recognizable"]
+      "archetypeTags": [
+        "villain",
+        "suit",
+        "makeup",
+        "purple",
+        "chaos"
+      ],
+      "vibeTags": [
+        "iconic",
+        "commitment",
+        "dramatic",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 155,
-        "imagePath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 1810,
+        "personName": "Heath Ledger"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 155,
+          "imagePath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The makeup takes time but is worth it. Stay in character for maximum impact."
   },
@@ -1941,8 +2373,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["stripes", "suit", "ghost", "wild", "80s"],
-      "vibeTags": ["funny", "iconic", "commitment", "theatrical"]
+      "archetypeTags": [
+        "stripes",
+        "suit",
+        "ghost",
+        "wild",
+        "80s"
+      ],
+      "vibeTags": [
+        "funny",
+        "iconic",
+        "commitment",
+        "theatrical"
+      ]
     },
     "images": {
       "primary": {
@@ -1998,8 +2441,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["skeleton", "black", "classic", "spooky", "minimal"],
-      "vibeTags": ["easy", "versatile", "comfortable", "timeless"]
+      "archetypeTags": [
+        "skeleton",
+        "black",
+        "classic",
+        "spooky",
+        "minimal"
+      ],
+      "vibeTags": [
+        "easy",
+        "versatile",
+        "comfortable",
+        "timeless"
+      ]
     },
     "images": {
       "primary": {
@@ -2055,16 +2509,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["aviator", "military", "80s", "sunglasses", "bomber"],
-      "vibeTags": ["sexy", "iconic", "recognizable", "confident"]
+      "archetypeTags": [
+        "aviator",
+        "military",
+        "80s",
+        "sunglasses",
+        "bomber"
+      ],
+      "vibeTags": [
+        "sexy",
+        "iconic",
+        "recognizable",
+        "confident"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 744,
-        "imagePath": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 500,
+        "personName": "Tom Cruise"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 744,
+          "imagePath": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The aviators are non-negotiable. Feel the need for speed."
   },
@@ -2113,8 +2585,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["robe", "sci-fi", "sword", "hood", "warrior"],
-      "vibeTags": ["iconic", "universal", "comfortable", "classic"]
+      "archetypeTags": [
+        "robe",
+        "sci-fi",
+        "sword",
+        "hood",
+        "warrior"
+      ],
+      "vibeTags": [
+        "iconic",
+        "universal",
+        "comfortable",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
@@ -2171,16 +2654,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["neon", "pink", "athletic", "80s", "blonde"],
-      "vibeTags": ["fun", "current", "recognizable", "stylish"]
+      "archetypeTags": [
+        "neon",
+        "pink",
+        "athletic",
+        "80s",
+        "blonde"
+      ],
+      "vibeTags": [
+        "fun",
+        "current",
+        "recognizable",
+        "stylish"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 346698,
-        "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 234352,
+        "personName": "Margot Robbie"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 346698,
+          "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Pick any Barbie look - cowgirl, disco, beach. They're all iconic."
   },
@@ -2230,8 +2731,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["villain", "glamour", "fur", "black-white", "diva"],
-      "vibeTags": ["stylish", "iconic", "dramatic", "commitment"]
+      "archetypeTags": [
+        "villain",
+        "glamour",
+        "fur",
+        "black-white",
+        "diva"
+      ],
+      "vibeTags": [
+        "stylish",
+        "iconic",
+        "dramatic",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -2289,8 +2801,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cape", "formal", "gothic", "fangs", "elegant"],
-      "vibeTags": ["sexy", "stylish", "classic", "versatile"]
+      "archetypeTags": [
+        "cape",
+        "formal",
+        "gothic",
+        "fangs",
+        "elegant"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "classic",
+        "versatile"
+      ]
     },
     "images": {
       "primary": {
@@ -2346,16 +2869,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["yellow", "goggles", "overalls", "cute", "cartoon"],
-      "vibeTags": ["funny", "recognizable", "comfortable", "kid-friendly"]
+      "archetypeTags": [
+        "yellow",
+        "goggles",
+        "overalls",
+        "cute",
+        "cartoon"
+      ],
+      "vibeTags": [
+        "funny",
+        "recognizable",
+        "comfortable",
+        "kid-friendly"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 211672,
-        "imagePath": "/qMYMnZwaxMKEb2PSYLm2WOD2dKd.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 124747,
+        "personName": "Pierre Coffin"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 211672,
+          "imagePath": "/qMYMnZwaxMKEb2PSYLm2WOD2dKd.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Speak in gibberish all night. BANANA!"
   },
@@ -2405,16 +2946,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["gothic", "leather", "pale", "romantic", "tim-burton"],
-      "vibeTags": ["commitment", "dramatic", "iconic", "artistic"]
+      "archetypeTags": [
+        "gothic",
+        "leather",
+        "pale",
+        "romantic",
+        "tim-burton"
+      ],
+      "vibeTags": [
+        "commitment",
+        "dramatic",
+        "iconic",
+        "artistic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 162,
-        "imagePath": "/1RFIbuW9Z3eN9P0MzpEBBJLbkJs.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 85,
+        "personName": "Johnny Depp"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 162,
+          "imagePath": "/1RFIbuW9Z3eN9P0MzpEBBJLbkJs.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The hands will limit mobility. Worth it for the drama."
   },
@@ -2465,16 +3024,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["clown", "horror", "makeup", "scary", "villain"],
-      "vibeTags": ["commitment", "scary", "iconic", "dramatic"]
+      "archetypeTags": [
+        "clown",
+        "horror",
+        "makeup",
+        "scary",
+        "villain"
+      ],
+      "vibeTags": [
+        "commitment",
+        "scary",
+        "iconic",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 346364,
-        "imagePath": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 137905,
+        "personName": "Bill Skarsgård"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 346364,
+          "imagePath": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The makeup takes 1-2 hours. Carry a red balloon everywhere."
   },
@@ -2524,16 +3101,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["villain", "helmet", "cape", "black", "sci-fi"],
-      "vibeTags": ["iconic", "recognizable", "powerful", "classic"]
+      "archetypeTags": [
+        "villain",
+        "helmet",
+        "cape",
+        "black",
+        "sci-fi"
+      ],
+      "vibeTags": [
+        "iconic",
+        "recognizable",
+        "powerful",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 11,
-        "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 24342,
+        "personName": "David Prowse"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 11,
+          "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The breathing sound effects are essential. Practice your 'I am your father.'"
   },
@@ -2583,16 +3178,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["armor", "helmet", "white", "military", "sci-fi"],
-      "vibeTags": ["iconic", "commitment", "recognizable", "group"]
+      "archetypeTags": [
+        "armor",
+        "helmet",
+        "white",
+        "military",
+        "sci-fi"
+      ],
+      "vibeTags": [
+        "iconic",
+        "commitment",
+        "recognizable",
+        "group"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 11,
-        "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 1729623,
+        "personName": "Michael Leader"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 11,
+          "imagePath": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "You won't be able to sit or use the bathroom easily. Commit."
   },
@@ -2641,8 +3254,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["armor", "helmet", "tech", "superhero", "red"],
-      "vibeTags": ["iconic", "commitment", "impressive", "elaborate"]
+      "archetypeTags": [
+        "armor",
+        "helmet",
+        "tech",
+        "superhero",
+        "red"
+      ],
+      "vibeTags": [
+        "iconic",
+        "commitment",
+        "impressive",
+        "elaborate"
+      ]
     },
     "images": {
       "primary": {
@@ -2699,8 +3323,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["robot", "helmet", "electronic", "duo", "futuristic"],
-      "vibeTags": ["stylish", "iconic", "commitment", "cool"]
+      "archetypeTags": [
+        "robot",
+        "helmet",
+        "electronic",
+        "duo",
+        "futuristic"
+      ],
+      "vibeTags": [
+        "stylish",
+        "iconic",
+        "commitment",
+        "cool"
+      ]
     },
     "images": {
       "primary": {
@@ -2757,16 +3392,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["genius", "billionaire", "goatee", "tech", "confident"],
-      "vibeTags": ["stylish", "easy", "clever", "recognizable"]
+      "archetypeTags": [
+        "genius",
+        "billionaire",
+        "goatee",
+        "tech",
+        "confident"
+      ],
+      "vibeTags": [
+        "stylish",
+        "easy",
+        "clever",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1726,
-        "imagePath": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3223,
+        "personName": "Robert Downey Jr."
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1726,
+          "imagePath": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The arc reactor glow and cocky attitude are essential."
   },
@@ -2816,16 +3469,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "hat", "cane", "whimsical", "purple"],
-      "vibeTags": ["clever", "stylish", "classic", "theatrical"]
+      "archetypeTags": [
+        "suit",
+        "hat",
+        "cane",
+        "whimsical",
+        "purple"
+      ],
+      "vibeTags": [
+        "clever",
+        "stylish",
+        "classic",
+        "theatrical"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 252,
-        "imagePath": "/vmPgfTv4UprBWgfig3XIcKbSwDK.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3460,
+        "personName": "Gene Wilder"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 252,
+          "imagePath": "/vmPgfTv4UprBWgfig3XIcKbSwDK.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Carry around candy. Quote the movie constantly. Be mysterious."
   },
@@ -2874,16 +3545,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["dress", "blue", "classic", "pigtails", "wholesome"],
-      "vibeTags": ["easy", "recognizable", "timeless", "iconic"]
+      "archetypeTags": [
+        "dress",
+        "blue",
+        "classic",
+        "pigtails",
+        "wholesome"
+      ],
+      "vibeTags": [
+        "easy",
+        "recognizable",
+        "timeless",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 630,
-        "imagePath": "/pfg3RNvT1qoFwLAhKdCF3h7cwEV.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 9066,
+        "personName": "Judy Garland"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 630,
+          "imagePath": "/pfg3RNvT1qoFwLAhKdCF3h7cwEV.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Click your heels and say 'There's no place like home' repeatedly."
   },
@@ -2932,8 +3621,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["green", "meme", "app", "threatening", "cute"],
-      "vibeTags": ["funny", "clever", "current", "internet"]
+      "archetypeTags": [
+        "green",
+        "meme",
+        "app",
+        "threatening",
+        "cute"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "current",
+        "internet"
+      ]
     },
     "images": {
       "primary": {
@@ -2989,8 +3689,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rich", "blazer", "messy", "privilege", "unhinged"],
-      "vibeTags": ["stylish", "funny", "current", "quotable"]
+      "archetypeTags": [
+        "rich",
+        "blazer",
+        "messy",
+        "privilege",
+        "unhinged"
+      ],
+      "vibeTags": [
+        "stylish",
+        "funny",
+        "current",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -3047,16 +3758,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "yuppie", "80s", "slick", "intense"],
-      "vibeTags": ["stylish", "clever", "quotable", "commitment"]
+      "archetypeTags": [
+        "suit",
+        "yuppie",
+        "80s",
+        "slick",
+        "intense"
+      ],
+      "vibeTags": [
+        "stylish",
+        "clever",
+        "quotable",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 1359,
-        "imagePath": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3894,
+        "personName": "Christian Bale"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 1359,
+          "imagePath": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Compare business cards obsessively. Discuss Huey Lewis. Maintain unsettling eye contact."
   },
@@ -3105,8 +3834,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["bald", "podcast", "fitness", "casual", "intense"],
-      "vibeTags": ["funny", "easy", "current", "quotable"]
+      "archetypeTags": [
+        "bald",
+        "podcast",
+        "fitness",
+        "casual",
+        "intense"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "current",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -3161,8 +3901,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["chef", "angry", "british", "uniform", "intense"],
-      "vibeTags": ["funny", "easy", "recognizable", "quotable"]
+      "archetypeTags": [
+        "chef",
+        "angry",
+        "british",
+        "uniform",
+        "intense"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "recognizable",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -3217,8 +3968,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["bald", "neurotic", "90s", "glasses", "schlub"],
-      "vibeTags": ["funny", "easy", "classic", "quotable"]
+      "archetypeTags": [
+        "bald",
+        "neurotic",
+        "90s",
+        "glasses",
+        "schlub"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "classic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -3275,8 +4037,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["bald", "neurotic", "glasses", "casual", "grumpy"],
-      "vibeTags": ["funny", "easy", "quotable", "commitment"]
+      "archetypeTags": [
+        "bald",
+        "neurotic",
+        "glasses",
+        "casual",
+        "grumpy"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "quotable",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -3333,16 +4106,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["detective", "british", "hat", "pipe", "intellectual"],
-      "vibeTags": ["clever", "stylish", "classic", "iconic"]
+      "archetypeTags": [
+        "detective",
+        "british",
+        "hat",
+        "pipe",
+        "intellectual"
+      ],
+      "vibeTags": [
+        "clever",
+        "stylish",
+        "classic",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 10528,
-        "imagePath": "/momkKuWburNTqKBF6ez7rvgYoP1.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3223,
+        "personName": "Robert Downey Jr."
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 10528,
+          "imagePath": "/momkKuWburNTqKBF6ez7rvgYoP1.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Deduce things about everyone. Say 'Elementary' a lot. Examine everything suspiciously."
   },
@@ -3391,8 +4182,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["mobster", "jersey", "cigar", "gold-chain", "casual"],
-      "vibeTags": ["iconic", "quotable", "nostalgic", "dramatic"]
+      "archetypeTags": [
+        "mobster",
+        "jersey",
+        "cigar",
+        "gold-chain",
+        "casual"
+      ],
+      "vibeTags": [
+        "iconic",
+        "quotable",
+        "nostalgic",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
@@ -3449,16 +4251,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "billionaire", "suave", "mysterious", "elegant"],
-      "vibeTags": ["sexy", "stylish", "clever", "subtle"]
+      "archetypeTags": [
+        "suit",
+        "billionaire",
+        "suave",
+        "mysterious",
+        "elegant"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "clever",
+        "subtle"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 272,
-        "imagePath": "/b6DrJlPnFdItCoFRAYKb3tLURHK.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3894,
+        "personName": "Christian Bale"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 272,
+          "imagePath": "/b6DrJlPnFdItCoFRAYKb3tLURHK.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Disappear mysteriously mid-conversation. Look distracted by distant sirens. Brood handsomely."
   },
@@ -3507,8 +4327,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["teacher", "khaki", "glasses", "sad", "suburban"],
-      "vibeTags": ["funny", "easy", "iconic", "transformation"]
+      "archetypeTags": [
+        "teacher",
+        "khaki",
+        "glasses",
+        "sad",
+        "suburban"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "iconic",
+        "transformation"
+      ]
     },
     "images": {
       "primary": {
@@ -3565,8 +4396,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["bald", "hat", "villain", "intense", "transformation"],
-      "vibeTags": ["iconic", "recognizable", "quotable", "dramatic"]
+      "archetypeTags": [
+        "bald",
+        "hat",
+        "villain",
+        "intense",
+        "transformation"
+      ],
+      "vibeTags": [
+        "iconic",
+        "recognizable",
+        "quotable",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
@@ -3623,16 +4465,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "1920s", "wealth", "romantic", "tragic"],
-      "vibeTags": ["stylish", "classic", "dramatic", "literary"]
+      "archetypeTags": [
+        "suit",
+        "1920s",
+        "wealth",
+        "romantic",
+        "tragic"
+      ],
+      "vibeTags": [
+        "stylish",
+        "classic",
+        "dramatic",
+        "literary"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 64682,
-        "imagePath": "/8bTbhMS12mqKvMxfPKzmoaE9lF9.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 6193,
+        "personName": "Leonardo DiCaprio"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 64682,
+          "imagePath": "/8bTbhMS12mqKvMxfPKzmoaE9lF9.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Stare wistfully at a green light. Say 'Old sport' constantly. Seem hopeful yet doomed."
   },
@@ -3682,8 +4542,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["monocle", "tophat", "mascot", "classy", "absurd"],
-      "vibeTags": ["funny", "clever", "vintage", "weird"]
+      "archetypeTags": [
+        "monocle",
+        "tophat",
+        "mascot",
+        "classy",
+        "absurd"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "vintage",
+        "weird"
+      ]
     },
     "images": {
       "primary": {
@@ -3740,8 +4611,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["monocle", "tophat", "disheveled", "broke", "absurd"],
-      "vibeTags": ["funny", "clever", "meta", "current"]
+      "archetypeTags": [
+        "monocle",
+        "tophat",
+        "disheveled",
+        "broke",
+        "absurd"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "meta",
+        "current"
+      ]
     },
     "images": {
       "primary": {
@@ -3797,16 +4679,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cap", "plaid", "running", "simple", "iconic"],
-      "vibeTags": ["funny", "easy", "recognizable", "quotable"]
+      "archetypeTags": [
+        "cap",
+        "plaid",
+        "running",
+        "simple",
+        "iconic"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "recognizable",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 13,
-        "imagePath": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 31,
+        "personName": "Tom Hanks"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 13,
+          "imagePath": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Sit on benches and tell stories to strangers. Run randomly. Offer chocolates."
   },
@@ -3855,16 +4755,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["suit", "spy", "suave", "martini", "british"],
-      "vibeTags": ["sexy", "stylish", "iconic", "classic"]
+      "archetypeTags": [
+        "suit",
+        "spy",
+        "suave",
+        "martini",
+        "british"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "iconic",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 36557,
-        "imagePath": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 8784,
+        "personName": "Daniel Craig"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 36557,
+          "imagePath": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Order drinks 'shaken, not stirred.' Introduce yourself twice. Look dangerous but relaxed."
   },
@@ -3914,16 +4832,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["fedora", "leather", "adventurer", "professor", "rugged"],
-      "vibeTags": ["iconic", "classic", "recognizable", "comfortable"]
+      "archetypeTags": [
+        "fedora",
+        "leather",
+        "adventurer",
+        "professor",
+        "rugged"
+      ],
+      "vibeTags": [
+        "iconic",
+        "classic",
+        "recognizable",
+        "comfortable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 85,
-        "imagePath": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3,
+        "personName": "Harrison Ford"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 85,
+          "imagePath": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The hat is sacred. Tell people you hate snakes. Look tired but ready for adventure."
   },
@@ -3972,8 +4908,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["vest", "science", "space", "educator", "enthusiastic"],
-      "vibeTags": ["funny", "clever", "current", "nerdy"]
+      "archetypeTags": [
+        "vest",
+        "science",
+        "space",
+        "educator",
+        "enthusiastic"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "current",
+        "nerdy"
+      ]
     },
     "images": {
       "primary": {
@@ -4028,8 +4975,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["athletic", "intense", "motivational", "running", "hardcore"],
-      "vibeTags": ["funny", "easy", "current", "commitment"]
+      "archetypeTags": [
+        "athletic",
+        "intense",
+        "motivational",
+        "running",
+        "hardcore"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "current",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -4086,8 +5044,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tech", "gray", "awkward", "billionaire", "robotic"],
-      "vibeTags": ["funny", "easy", "current", "meta"]
+      "archetypeTags": [
+        "tech",
+        "gray",
+        "awkward",
+        "billionaire",
+        "robotic"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "current",
+        "meta"
+      ]
     },
     "images": {
       "primary": {
@@ -4142,8 +5111,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["boss", "office", "awkward", "confident", "suit"],
-      "vibeTags": ["funny", "easy", "quotable", "iconic"]
+      "archetypeTags": [
+        "boss",
+        "office",
+        "awkward",
+        "confident",
+        "suit"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "quotable",
+        "iconic"
+      ]
     },
     "images": {
       "primary": {
@@ -4200,8 +5180,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["clown", "mascot", "red", "yellow", "fast-food"],
-      "vibeTags": ["funny", "absurd", "nostalgic", "weird"]
+      "archetypeTags": [
+        "clown",
+        "mascot",
+        "red",
+        "yellow",
+        "fast-food"
+      ],
+      "vibeTags": [
+        "funny",
+        "absurd",
+        "nostalgic",
+        "weird"
+      ]
     },
     "images": {
       "primary": {
@@ -4257,8 +5248,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["fashion", "music", "oversized", "earth-tones", "intense"],
-      "vibeTags": ["stylish", "current", "controversial", "bold"]
+      "archetypeTags": [
+        "fashion",
+        "music",
+        "oversized",
+        "earth-tones",
+        "intense"
+      ],
+      "vibeTags": [
+        "stylish",
+        "current",
+        "controversial",
+        "bold"
+      ]
     },
     "images": {
       "primary": {
@@ -4314,16 +5316,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["nerd", "casual", "student", "flannel", "relatable"],
-      "vibeTags": ["easy", "subtle", "clever", "comfortable"]
+      "archetypeTags": [
+        "nerd",
+        "casual",
+        "student",
+        "flannel",
+        "relatable"
+      ],
+      "vibeTags": [
+        "easy",
+        "subtle",
+        "clever",
+        "comfortable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 634649,
-        "imagePath": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 1136406,
+        "personName": "Tom Holland"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 634649,
+          "imagePath": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Look stressed about homework AND saving the city. Leave suddenly when you 'hear something.'"
   },
@@ -4372,8 +5392,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pink", "bunny", "mascot", "tired", "ironic"],
-      "vibeTags": ["funny", "clever", "absurd", "relatable"]
+      "archetypeTags": [
+        "pink",
+        "bunny",
+        "mascot",
+        "tired",
+        "ironic"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "absurd",
+        "relatable"
+      ]
     },
     "images": {
       "primary": {
@@ -4429,8 +5460,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tiger", "mascot", "orange", "stripes", "cereal"],
-      "vibeTags": ["funny", "nostalgic", "absurd", "ironic"]
+      "archetypeTags": [
+        "tiger",
+        "mascot",
+        "orange",
+        "stripes",
+        "cereal"
+      ],
+      "vibeTags": [
+        "funny",
+        "nostalgic",
+        "absurd",
+        "ironic"
+      ]
     },
     "images": {
       "primary": {
@@ -4486,8 +5528,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["villain", "undercover", "awkward", "green", "ironic"],
-      "vibeTags": ["funny", "clever", "meta", "subtle"]
+      "archetypeTags": [
+        "villain",
+        "undercover",
+        "awkward",
+        "green",
+        "ironic"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "meta",
+        "subtle"
+      ]
     },
     "images": {
       "primary": {
@@ -4545,8 +5598,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["divine", "white", "beard", "robe", "omniscient"],
-      "vibeTags": ["funny", "clever", "absurd", "meta"]
+      "archetypeTags": [
+        "divine",
+        "white",
+        "beard",
+        "robe",
+        "omniscient"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "absurd",
+        "meta"
+      ]
     },
     "images": {
       "primary": {
@@ -4602,8 +5666,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["spy", "teal", "fedora", "secret-agent", "silent"],
-      "vibeTags": ["funny", "clever", "nostalgic", "commitment"]
+      "archetypeTags": [
+        "spy",
+        "teal",
+        "fedora",
+        "secret-agent",
+        "silent"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "nostalgic",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -4660,8 +5735,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["dad", "casual", "relaxed", "politician", "cool"],
-      "vibeTags": ["funny", "current", "recognizable", "wholesome"]
+      "archetypeTags": [
+        "dad",
+        "casual",
+        "relaxed",
+        "politician",
+        "cool"
+      ],
+      "vibeTags": [
+        "funny",
+        "current",
+        "recognizable",
+        "wholesome"
+      ]
     },
     "images": {
       "primary": {
@@ -4716,8 +5802,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["basketball", "wild", "colorful", "90s", "eccentric"],
-      "vibeTags": ["bold", "iconic", "dramatic", "fun"]
+      "archetypeTags": [
+        "basketball",
+        "wild",
+        "colorful",
+        "90s",
+        "eccentric"
+      ],
+      "vibeTags": [
+        "bold",
+        "iconic",
+        "dramatic",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -4773,8 +5870,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tennis", "80s", "angry", "headband", "athlete"],
-      "vibeTags": ["funny", "easy", "nostalgic", "quotable"]
+      "archetypeTags": [
+        "tennis",
+        "80s",
+        "angry",
+        "headband",
+        "athlete"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "nostalgic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -4829,8 +5937,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["green", "mascot", "british", "salesman", "absurd"],
-      "vibeTags": ["funny", "clever", "current", "commitment"]
+      "archetypeTags": [
+        "green",
+        "mascot",
+        "british",
+        "salesman",
+        "absurd"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "current",
+        "commitment"
+      ]
     },
     "images": {
       "primary": {
@@ -4886,8 +6005,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["bear", "ranger", "jeans", "mascot", "tired"],
-      "vibeTags": ["funny", "absurd", "nostalgic", "ironic"]
+      "archetypeTags": [
+        "bear",
+        "ranger",
+        "jeans",
+        "mascot",
+        "tired"
+      ],
+      "vibeTags": [
+        "funny",
+        "absurd",
+        "nostalgic",
+        "ironic"
+      ]
     },
     "images": {
       "primary": {
@@ -4943,8 +6073,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["white", "chef", "cute", "mascot", "round"],
-      "vibeTags": ["funny", "easy", "nostalgic", "cute"]
+      "archetypeTags": [
+        "white",
+        "chef",
+        "cute",
+        "mascot",
+        "round"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "nostalgic",
+        "cute"
+      ]
     },
     "images": {
       "primary": {
@@ -5000,8 +6141,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rich", "anxious", "tech-bro", "hoodie", "cringe"],
-      "vibeTags": ["funny", "current", "quotable", "dramatic"]
+      "archetypeTags": [
+        "rich",
+        "anxious",
+        "tech-bro",
+        "hoodie",
+        "cringe"
+      ],
+      "vibeTags": [
+        "funny",
+        "current",
+        "quotable",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
@@ -5058,8 +6210,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["power-suit", "rich", "corporate", "strategic", "blazer"],
-      "vibeTags": ["stylish", "current", "smart", "powerful"]
+      "archetypeTags": [
+        "power-suit",
+        "rich",
+        "corporate",
+        "strategic",
+        "blazer"
+      ],
+      "vibeTags": [
+        "stylish",
+        "current",
+        "smart",
+        "powerful"
+      ]
     },
     "images": {
       "primary": {
@@ -5116,8 +6279,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["football", "jersey", "athlete", "boyfriend", "current"],
-      "vibeTags": ["easy", "current", "recognizable", "fun"]
+      "archetypeTags": [
+        "football",
+        "jersey",
+        "athlete",
+        "boyfriend",
+        "current"
+      ],
+      "vibeTags": [
+        "easy",
+        "current",
+        "recognizable",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -5172,8 +6346,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["white", "puffy", "corporate", "mascot", "absurd"],
-      "vibeTags": ["funny", "clever", "weird", "meta"]
+      "archetypeTags": [
+        "white",
+        "puffy",
+        "corporate",
+        "mascot",
+        "absurd"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "weird",
+        "meta"
+      ]
     },
     "images": {
       "primary": {
@@ -5229,16 +6414,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["insomniac", "office", "disheveled", "90s", "existential"],
-      "vibeTags": ["clever", "cult-classic", "subtle", "dark"]
+      "archetypeTags": [
+        "insomniac",
+        "office",
+        "disheveled",
+        "90s",
+        "existential"
+      ],
+      "vibeTags": [
+        "clever",
+        "cult-classic",
+        "subtle",
+        "dark"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 550,
-        "imagePath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 819,
+        "personName": "Edward Norton"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 550,
+          "imagePath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Talk about your condo. Look like you haven't slept. Don't talk about Fight Club."
   },
@@ -5287,16 +6490,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["leather", "chaos", "sunglasses", "vintage", "anarchist"],
-      "vibeTags": ["sexy", "stylish", "iconic", "quotable"]
+      "archetypeTags": [
+        "leather",
+        "chaos",
+        "sunglasses",
+        "vintage",
+        "anarchist"
+      ],
+      "vibeTags": [
+        "sexy",
+        "stylish",
+        "iconic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 550,
-        "imagePath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 287,
+        "personName": "Brad Pitt"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 550,
+          "imagePath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Maximum chaos energy. Speak in philosophical rants. The shirt should hurt to look at."
   },
@@ -5344,16 +6565,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["villain", "intelligent", "mask", "prison", "calm"],
-      "vibeTags": ["clever", "iconic", "creepy", "recognizable"]
+      "archetypeTags": [
+        "villain",
+        "intelligent",
+        "mask",
+        "prison",
+        "calm"
+      ],
+      "vibeTags": [
+        "clever",
+        "iconic",
+        "creepy",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 274,
-        "imagePath": "/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 4173,
+        "personName": "Anthony Hopkins"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 274,
+          "imagePath": "/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Do the 'fthfthfthfth' noise. Discuss wine pairings. Be extremely polite and terrifying."
   },
@@ -5402,8 +6641,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tracksuit", "green", "number", "survival", "korean"],
-      "vibeTags": ["easy", "current", "recognizable", "group"]
+      "archetypeTags": [
+        "tracksuit",
+        "green",
+        "number",
+        "survival",
+        "korean"
+      ],
+      "vibeTags": [
+        "easy",
+        "current",
+        "recognizable",
+        "group"
+      ]
     },
     "images": {
       "primary": {
@@ -5460,8 +6710,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pink", "mask", "uniform", "ominous", "korean"],
-      "vibeTags": ["current", "recognizable", "mysterious", "group"]
+      "archetypeTags": [
+        "pink",
+        "mask",
+        "uniform",
+        "ominous",
+        "korean"
+      ],
+      "vibeTags": [
+        "current",
+        "recognizable",
+        "mysterious",
+        "group"
+      ]
     },
     "images": {
       "primary": {
@@ -5518,8 +6779,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["horse", "depressed", "celebrity", "blue", "alcoholic"],
-      "vibeTags": ["funny", "sad", "clever", "quotable"]
+      "archetypeTags": [
+        "horse",
+        "depressed",
+        "celebrity",
+        "blue",
+        "alcoholic"
+      ],
+      "vibeTags": [
+        "funny",
+        "sad",
+        "clever",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
@@ -5576,8 +6848,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["symmetry", "pastel", "quirky", "vintage", "deadpan"],
-      "vibeTags": ["clever", "stylish", "artsy", "subtle"]
+      "archetypeTags": [
+        "symmetry",
+        "pastel",
+        "quirky",
+        "vintage",
+        "deadpan"
+      ],
+      "vibeTags": [
+        "clever",
+        "stylish",
+        "artsy",
+        "subtle"
+      ]
     },
     "images": {
       "primary": {
@@ -5634,8 +6917,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["billionaire", "vest", "power", "scottish", "patriarch"],
-      "vibeTags": ["quotable", "current", "powerful", "dramatic"]
+      "archetypeTags": [
+        "billionaire",
+        "vest",
+        "power",
+        "scottish",
+        "patriarch"
+      ],
+      "vibeTags": [
+        "quotable",
+        "current",
+        "powerful",
+        "dramatic"
+      ]
     },
     "images": {
       "primary": {
@@ -5692,16 +6986,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["scientist", "fedora", "pipe", "1940s", "guilty"],
-      "vibeTags": ["current", "clever", "dramatic", "quotable"]
+      "archetypeTags": [
+        "scientist",
+        "fedora",
+        "pipe",
+        "1940s",
+        "guilty"
+      ],
+      "vibeTags": [
+        "current",
+        "clever",
+        "dramatic",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 872585,
-        "imagePath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 2037,
+        "personName": "Cillian Murphy"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 872585,
+          "imagePath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Quote the Bhagavad Gita. Look burdened by knowledge. Stare into the middle distance."
   },
@@ -5750,16 +7062,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["barbie", "chaos", "wise", "damaged", "colorful"],
-      "vibeTags": ["funny", "current", "clever", "quotable"]
+      "archetypeTags": [
+        "barbie",
+        "chaos",
+        "wise",
+        "damaged",
+        "colorful"
+      ],
+      "vibeTags": [
+        "funny",
+        "current",
+        "clever",
+        "quotable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 346698,
-        "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 234352,
+        "personName": "Margot Robbie"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 346698,
+          "imagePath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Offer profound advice from strange positions. Look like you've been played with too hard."
   },
@@ -5808,8 +7138,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["wealthy", "resort", "linen", "entitled", "vacation"],
-      "vibeTags": ["stylish", "current", "satirical", "dark"]
+      "archetypeTags": [
+        "wealthy",
+        "resort",
+        "linen",
+        "entitled",
+        "vacation"
+      ],
+      "vibeTags": [
+        "stylish",
+        "current",
+        "satirical",
+        "dark"
+      ]
     },
     "images": {
       "primary": {
@@ -5866,8 +7207,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tech-bro", "fraud", "disheveled", "casual", "crypto"],
-      "vibeTags": ["funny", "topical", "edgy", "controversial"]
+      "archetypeTags": [
+        "tech-bro",
+        "fraud",
+        "disheveled",
+        "casual",
+        "crypto"
+      ],
+      "vibeTags": [
+        "funny",
+        "topical",
+        "edgy",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -5922,8 +7274,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tech", "fraud", "turtleneck", "minimalist", "intense"],
-      "vibeTags": ["clever", "topical", "edgy", "controversial"]
+      "archetypeTags": [
+        "tech",
+        "fraud",
+        "turtleneck",
+        "minimalist",
+        "intense"
+      ],
+      "vibeTags": [
+        "clever",
+        "topical",
+        "edgy",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -5977,8 +7340,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["criminal", "wealthy", "creepy", "controversial"],
-      "vibeTags": ["edgy", "dark-humor", "topical"]
+      "archetypeTags": [
+        "criminal",
+        "wealthy",
+        "creepy",
+        "controversial"
+      ],
+      "vibeTags": [
+        "edgy",
+        "dark-humor",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -6033,8 +7405,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["socialite", "criminal", "wealthy", "dark"],
-      "vibeTags": ["edgy", "dark-humor", "topical"]
+      "archetypeTags": [
+        "socialite",
+        "criminal",
+        "wealthy",
+        "dark"
+      ],
+      "vibeTags": [
+        "edgy",
+        "dark-humor",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -6089,8 +7470,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["serial-killer", "70s", "preppy", "charming", "dark"],
-      "vibeTags": ["edgy", "true-crime", "controversial"]
+      "archetypeTags": [
+        "serial-killer",
+        "70s",
+        "preppy",
+        "charming",
+        "dark"
+      ],
+      "vibeTags": [
+        "edgy",
+        "true-crime",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -6145,8 +7536,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["sports", "golf", "90s", "controversial", "athlete"],
-      "vibeTags": ["funny", "edgy", "dark-humor"]
+      "archetypeTags": [
+        "sports",
+        "golf",
+        "90s",
+        "controversial",
+        "athlete"
+      ],
+      "vibeTags": [
+        "funny",
+        "edgy",
+        "dark-humor"
+      ]
     },
     "images": {
       "primary": {
@@ -6202,8 +7603,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["gangster", "suit", "fedora", "vintage", "mob"],
-      "vibeTags": ["stylish", "classic", "edgy"]
+      "archetypeTags": [
+        "gangster",
+        "suit",
+        "fedora",
+        "vintage",
+        "mob"
+      ],
+      "vibeTags": [
+        "stylish",
+        "classic",
+        "edgy"
+      ]
     },
     "images": {
       "primary": {
@@ -6258,8 +7669,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["president", "politician", "70s", "scandal", "suit"],
-      "vibeTags": ["funny", "political", "retro"]
+      "archetypeTags": [
+        "president",
+        "politician",
+        "70s",
+        "scandal",
+        "suit"
+      ],
+      "vibeTags": [
+        "funny",
+        "political",
+        "retro"
+      ]
     },
     "images": {
       "primary": {
@@ -6314,8 +7735,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["influencer", "bald", "sunglasses", "flexing", "controversial"],
-      "vibeTags": ["funny", "topical", "ironic", "edgy"]
+      "archetypeTags": [
+        "influencer",
+        "bald",
+        "sunglasses",
+        "flexing",
+        "controversial"
+      ],
+      "vibeTags": [
+        "funny",
+        "topical",
+        "ironic",
+        "edgy"
+      ]
     },
     "images": {
       "primary": {
@@ -6370,8 +7802,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["hip-hop", "white-party", "mogul", "flashy", "champagne"],
-      "vibeTags": ["stylish", "party", "edgy", "topical"]
+      "archetypeTags": [
+        "hip-hop",
+        "white-party",
+        "mogul",
+        "flashy",
+        "champagne"
+      ],
+      "vibeTags": [
+        "stylish",
+        "party",
+        "edgy",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -6425,8 +7868,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["tech-bro", "billionaire", "meme", "twitter", "casual"],
-      "vibeTags": ["funny", "topical", "easy", "recognizable"]
+      "archetypeTags": [
+        "tech-bro",
+        "billionaire",
+        "meme",
+        "twitter",
+        "casual"
+      ],
+      "vibeTags": [
+        "funny",
+        "topical",
+        "easy",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -6481,8 +7935,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["youtuber", "influencer", "athlete", "blonde", "loud"],
-      "vibeTags": ["topical", "internet", "controversial"]
+      "archetypeTags": [
+        "youtuber",
+        "influencer",
+        "athlete",
+        "blonde",
+        "loud"
+      ],
+      "vibeTags": [
+        "topical",
+        "internet",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -6538,8 +8002,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["talk-show", "blonde", "androgynous", "tv-host"],
-      "vibeTags": ["funny", "topical", "satirical"]
+      "archetypeTags": [
+        "talk-show",
+        "blonde",
+        "androgynous",
+        "tv-host"
+      ],
+      "vibeTags": [
+        "funny",
+        "topical",
+        "satirical"
+      ]
     },
     "images": {
       "primary": {
@@ -6593,8 +8066,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "viral", "country", "cowboy-hat", "southern"],
-      "vibeTags": ["funny", "topical", "viral", "easy"]
+      "archetypeTags": [
+        "meme",
+        "viral",
+        "country",
+        "cowboy-hat",
+        "southern"
+      ],
+      "vibeTags": [
+        "funny",
+        "topical",
+        "viral",
+        "easy"
+      ]
     },
     "images": {
       "primary": {
@@ -6650,8 +8134,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "teen-idol", "2000s", "hoodie", "singer"],
-      "vibeTags": ["recognizable", "nostalgic", "pop"]
+      "archetypeTags": [
+        "pop-star",
+        "teen-idol",
+        "2000s",
+        "hoodie",
+        "singer"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "nostalgic",
+        "pop"
+      ]
     },
     "images": {
       "primary": {
@@ -6707,8 +8201,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "streetwear", "tattoos", "oversized", "crocs"],
-      "vibeTags": ["topical", "comfortable", "streetwear"]
+      "archetypeTags": [
+        "pop-star",
+        "streetwear",
+        "tattoos",
+        "oversized",
+        "crocs"
+      ],
+      "vibeTags": [
+        "topical",
+        "comfortable",
+        "streetwear"
+      ]
     },
     "images": {
       "primary": {
@@ -6762,8 +8266,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rapper", "fashion", "mask", "all-black", "yeezy"],
-      "vibeTags": ["stylish", "controversial", "topical"]
+      "archetypeTags": [
+        "rapper",
+        "fashion",
+        "mask",
+        "all-black",
+        "yeezy"
+      ],
+      "vibeTags": [
+        "stylish",
+        "controversial",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -6818,8 +8332,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "90s", "schoolgirl", "iconic", "blonde"],
-      "vibeTags": ["sexy", "nostalgic", "iconic", "recognizable"]
+      "archetypeTags": [
+        "pop-star",
+        "90s",
+        "schoolgirl",
+        "iconic",
+        "blonde"
+      ],
+      "vibeTags": [
+        "sexy",
+        "nostalgic",
+        "iconic",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -6874,8 +8399,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "vma", "snake", "performance", "sparkle"],
-      "vibeTags": ["iconic", "showstopper", "performance"]
+      "archetypeTags": [
+        "pop-star",
+        "vma",
+        "snake",
+        "performance",
+        "sparkle"
+      ],
+      "vibeTags": [
+        "iconic",
+        "showstopper",
+        "performance"
+      ]
     },
     "images": {
       "primary": {
@@ -6931,8 +8466,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "80s", "red-jacket", "iconic", "dancer"],
-      "vibeTags": ["iconic", "recognizable", "classic", "stylish"]
+      "archetypeTags": [
+        "pop-star",
+        "80s",
+        "red-jacket",
+        "iconic",
+        "dancer"
+      ],
+      "vibeTags": [
+        "iconic",
+        "recognizable",
+        "classic",
+        "stylish"
+      ]
     },
     "images": {
       "primary": {
@@ -6987,8 +8533,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rapper", "blonde", "90s", "hip-hop", "angry"],
-      "vibeTags": ["recognizable", "classic", "edgy"]
+      "archetypeTags": [
+        "rapper",
+        "blonde",
+        "90s",
+        "hip-hop",
+        "angry"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "classic",
+        "edgy"
+      ]
     },
     "images": {
       "primary": {
@@ -7044,8 +8600,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rock-star", "vegas", "jumpsuit", "iconic", "sideburns"],
-      "vibeTags": ["classic", "recognizable", "showstopper"]
+      "archetypeTags": [
+        "rock-star",
+        "vegas",
+        "jumpsuit",
+        "iconic",
+        "sideburns"
+      ],
+      "vibeTags": [
+        "classic",
+        "recognizable",
+        "showstopper"
+      ]
     },
     "images": {
       "primary": {
@@ -7100,8 +8666,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["folk", "60s", "musician", "harmonica", "intellectual"],
-      "vibeTags": ["clever", "classic", "artistic"]
+      "archetypeTags": [
+        "folk",
+        "60s",
+        "musician",
+        "harmonica",
+        "intellectual"
+      ],
+      "vibeTags": [
+        "clever",
+        "classic",
+        "artistic"
+      ]
     },
     "images": {
       "primary": {
@@ -7156,8 +8732,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "umbrella", "black-outfit", "iconic", "r&b"],
-      "vibeTags": ["sexy", "iconic", "stylish"]
+      "archetypeTags": [
+        "pop-star",
+        "umbrella",
+        "black-outfit",
+        "iconic",
+        "r&b"
+      ],
+      "vibeTags": [
+        "sexy",
+        "iconic",
+        "stylish"
+      ]
     },
     "images": {
       "primary": {
@@ -7212,8 +8798,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "latin", "dancer", "blonde", "super-bowl"],
-      "vibeTags": ["sexy", "performance", "showstopper"]
+      "archetypeTags": [
+        "pop-star",
+        "latin",
+        "dancer",
+        "blonde",
+        "super-bowl"
+      ],
+      "vibeTags": [
+        "sexy",
+        "performance",
+        "showstopper"
+      ]
     },
     "images": {
       "primary": {
@@ -7268,8 +8864,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "avant-garde", "meat", "shocking", "vma"],
-      "vibeTags": ["funny", "statement", "memorable"]
+      "archetypeTags": [
+        "pop-star",
+        "avant-garde",
+        "meat",
+        "shocking",
+        "vma"
+      ],
+      "vibeTags": [
+        "funny",
+        "statement",
+        "memorable"
+      ]
     },
     "images": {
       "primary": {
@@ -7324,8 +8930,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "90s", "iconic", "avant-garde", "blonde"],
-      "vibeTags": ["iconic", "bold", "sexy", "performance"]
+      "archetypeTags": [
+        "pop-star",
+        "90s",
+        "iconic",
+        "avant-garde",
+        "blonde"
+      ],
+      "vibeTags": [
+        "iconic",
+        "bold",
+        "sexy",
+        "performance"
+      ]
     },
     "images": {
       "primary": {
@@ -7380,8 +8997,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["rapper", "90s", "braids", "hip-hop", "chill"],
-      "vibeTags": ["recognizable", "laid-back", "classic"]
+      "archetypeTags": [
+        "rapper",
+        "90s",
+        "braids",
+        "hip-hop",
+        "chill"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "laid-back",
+        "classic"
+      ]
     },
     "images": {
       "primary": {
@@ -7437,8 +9064,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["socialite", "2000s", "pink", "blonde", "reality-tv"],
-      "vibeTags": ["nostalgic", "funny", "recognizable"]
+      "archetypeTags": [
+        "socialite",
+        "2000s",
+        "pink",
+        "blonde",
+        "reality-tv"
+      ],
+      "vibeTags": [
+        "nostalgic",
+        "funny",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -7493,17 +9130,34 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pop-star", "disney", "blonde", "teen", "glitter"],
-      "vibeTags": ["nostalgic", "2000s", "fun"]
+      "archetypeTags": [
+        "pop-star",
+        "disney",
+        "blonde",
+        "teen",
+        "glitter"
+      ],
+      "vibeTags": [
+        "nostalgic",
+        "2000s",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 33320,
-        "imagePath": "/jiFRLLDklH9eh4ewZplUDu8A1x5.jpg",
-        "imageType": "poster",
-        "mediaType": "tv"
-      }
+        "kind": "tmdb_person",
+        "personId": 1562575,
+        "personName": "Yin Tao"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 33320,
+          "imagePath": "/jiFRLLDklH9eh4ewZplUDu8A1x5.jpg",
+          "imageType": "poster",
+          "mediaType": "tv"
+        }
+      ]
     },
     "notes": "The secret double life energy. Best of both worlds. Miley reference appreciated."
   },
@@ -7552,8 +9206,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["president", "suit", "politician", "tan-suit", "meme"],
-      "vibeTags": ["political", "topical", "recognizable"]
+      "archetypeTags": [
+        "president",
+        "suit",
+        "politician",
+        "tan-suit",
+        "meme"
+      ],
+      "vibeTags": [
+        "political",
+        "topical",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -7608,8 +9272,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["religious", "robe", "sandals", "beard", "iconic"],
-      "vibeTags": ["recognizable", "classic", "controversial"]
+      "archetypeTags": [
+        "religious",
+        "robe",
+        "sandals",
+        "beard",
+        "iconic"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "classic",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -7664,8 +9338,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["religious", "white-robe", "hat", "catholic", "leader"],
-      "vibeTags": ["recognizable", "religious", "authority"]
+      "archetypeTags": [
+        "religious",
+        "white-robe",
+        "hat",
+        "catholic",
+        "leader"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "religious",
+        "authority"
+      ]
     },
     "images": {
       "primary": {
@@ -7720,8 +9404,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["scientist", "genius", "white-hair", "professor", "intellectual"],
-      "vibeTags": ["clever", "classic", "easy", "recognizable"]
+      "archetypeTags": [
+        "scientist",
+        "genius",
+        "white-hair",
+        "professor",
+        "intellectual"
+      ],
+      "vibeTags": [
+        "clever",
+        "classic",
+        "easy",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -7776,8 +9471,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["president", "top-hat", "beard", "historical", "suit"],
-      "vibeTags": ["classic", "recognizable", "presidential"]
+      "archetypeTags": [
+        "president",
+        "top-hat",
+        "beard",
+        "historical",
+        "suit"
+      ],
+      "vibeTags": [
+        "classic",
+        "recognizable",
+        "presidential"
+      ]
     },
     "images": {
       "primary": {
@@ -7832,8 +9537,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["president", "60s", "suit", "charming", "handsome"],
-      "vibeTags": ["stylish", "classic", "political"]
+      "archetypeTags": [
+        "president",
+        "60s",
+        "suit",
+        "charming",
+        "handsome"
+      ],
+      "vibeTags": [
+        "stylish",
+        "classic",
+        "political"
+      ]
     },
     "images": {
       "primary": {
@@ -7888,8 +9603,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["dictator", "military", "mustache", "soviet", "historical"],
-      "vibeTags": ["edgy", "dark-humor", "controversial"]
+      "archetypeTags": [
+        "dictator",
+        "military",
+        "mustache",
+        "soviet",
+        "historical"
+      ],
+      "vibeTags": [
+        "edgy",
+        "dark-humor",
+        "controversial"
+      ]
     },
     "images": {
       "primary": {
@@ -7944,8 +9669,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["soccer", "athlete", "jersey", "argentina", "goat"],
-      "vibeTags": ["sporty", "recognizable", "easy"]
+      "archetypeTags": [
+        "soccer",
+        "athlete",
+        "jersey",
+        "argentina",
+        "goat"
+      ],
+      "vibeTags": [
+        "sporty",
+        "recognizable",
+        "easy"
+      ]
     },
     "images": {
       "primary": {
@@ -8000,8 +9735,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["terrorist", "controversial", "beard", "dark-humor"],
-      "vibeTags": ["edgy", "extremely-controversial", "risky"]
+      "archetypeTags": [
+        "terrorist",
+        "controversial",
+        "beard",
+        "dark-humor"
+      ],
+      "vibeTags": [
+        "edgy",
+        "extremely-controversial",
+        "risky"
+      ]
     },
     "images": {
       "primary": {
@@ -8056,8 +9800,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["basketball", "athlete", "jersey", "lakers", "goat"],
-      "vibeTags": ["sporty", "recognizable", "easy"]
+      "archetypeTags": [
+        "basketball",
+        "athlete",
+        "jersey",
+        "lakers",
+        "goat"
+      ],
+      "vibeTags": [
+        "sporty",
+        "recognizable",
+        "easy"
+      ]
     },
     "images": {
       "primary": {
@@ -8113,8 +9867,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["warrior", "conqueror", "historical", "fur", "armor"],
-      "vibeTags": ["edgy", "historical", "powerful"]
+      "archetypeTags": [
+        "warrior",
+        "conqueror",
+        "historical",
+        "fur",
+        "armor"
+      ],
+      "vibeTags": [
+        "edgy",
+        "historical",
+        "powerful"
+      ]
     },
     "images": {
       "primary": {
@@ -8169,8 +9933,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["boxer", "athlete", "face-tattoo", "bald", "tough"],
-      "vibeTags": ["recognizable", "sporty", "funny"]
+      "archetypeTags": [
+        "boxer",
+        "athlete",
+        "face-tattoo",
+        "bald",
+        "tough"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "sporty",
+        "funny"
+      ]
     },
     "images": {
       "primary": {
@@ -8225,8 +9999,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["brand-mascot", "food", "vintage", "controversial"],
-      "vibeTags": ["funny", "nostalgic", "edgy"]
+      "archetypeTags": [
+        "brand-mascot",
+        "food",
+        "vintage",
+        "controversial"
+      ],
+      "vibeTags": [
+        "funny",
+        "nostalgic",
+        "edgy"
+      ]
     },
     "images": {
       "primary": {
@@ -8281,8 +10064,17 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["brand-mascot", "food", "vintage", "controversial"],
-      "vibeTags": ["edgy", "nostalgic", "risky"]
+      "archetypeTags": [
+        "brand-mascot",
+        "food",
+        "vintage",
+        "controversial"
+      ],
+      "vibeTags": [
+        "edgy",
+        "nostalgic",
+        "risky"
+      ]
     },
     "images": {
       "primary": {
@@ -8338,8 +10130,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["mascot", "candy", "smart", "glasses", "brown"],
-      "vibeTags": ["funny", "clever", "recognizable"]
+      "archetypeTags": [
+        "mascot",
+        "candy",
+        "smart",
+        "glasses",
+        "brown"
+      ],
+      "vibeTags": [
+        "funny",
+        "clever",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -8395,16 +10197,33 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "bunny", "90s", "basketball", "blonde"],
-      "vibeTags": ["sexy", "nostalgic", "recognizable"]
+      "archetypeTags": [
+        "cartoon",
+        "bunny",
+        "90s",
+        "basketball",
+        "blonde"
+      ],
+      "vibeTags": [
+        "sexy",
+        "nostalgic",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 2300,
-        "imagePath": "/ieT4mfDEDJw8tBvq0XVXdxlxSmI.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 60739,
+        "personName": "Kath Soucie"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 2300,
+          "imagePath": "/ieT4mfDEDJw8tBvq0XVXdxlxSmI.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "The 90s version is more iconic. Don't call me doll. Basketball skills optional."
   },
@@ -8454,16 +10273,33 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "red-dress", "bombshell", "glamour", "vintage"],
-      "vibeTags": ["sexy", "iconic", "glamorous"]
+      "archetypeTags": [
+        "cartoon",
+        "red-dress",
+        "bombshell",
+        "glamour",
+        "vintage"
+      ],
+      "vibeTags": [
+        "sexy",
+        "iconic",
+        "glamorous"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 856,
-        "imagePath": "/sVP5C4Lo5bVu7EjLRQpXfEVvVVj.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 3391,
+        "personName": "Kathleen Turner"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 856,
+          "imagePath": "/sVP5C4Lo5bVu7EjLRQpXfEVvVVj.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "I'm not bad, I'm just drawn that way. The dress is tight and impractical but iconic."
   },
@@ -8513,8 +10349,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "mom", "spongebob", "yellow", "obscure"],
-      "vibeTags": ["funny", "random", "deep-cut"]
+      "archetypeTags": [
+        "cartoon",
+        "mom",
+        "spongebob",
+        "yellow",
+        "obscure"
+      ],
+      "vibeTags": [
+        "funny",
+        "random",
+        "deep-cut"
+      ]
     },
     "images": {
       "primary": {
@@ -8570,8 +10416,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["pokemon", "yellow", "cute", "anime", "mascot"],
-      "vibeTags": ["recognizable", "cute", "fun"]
+      "archetypeTags": [
+        "pokemon",
+        "yellow",
+        "cute",
+        "anime",
+        "mascot"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "cute",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
@@ -8627,8 +10483,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "90s", "pink", "superhero", "cute"],
-      "vibeTags": ["nostalgic", "cute", "recognizable"]
+      "archetypeTags": [
+        "cartoon",
+        "90s",
+        "pink",
+        "superhero",
+        "cute"
+      ],
+      "vibeTags": [
+        "nostalgic",
+        "cute",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -8684,8 +10550,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "90s", "blue", "superhero", "cute"],
-      "vibeTags": ["nostalgic", "cute", "sweet"]
+      "archetypeTags": [
+        "cartoon",
+        "90s",
+        "blue",
+        "superhero",
+        "cute"
+      ],
+      "vibeTags": [
+        "nostalgic",
+        "cute",
+        "sweet"
+      ]
     },
     "images": {
       "primary": {
@@ -8741,8 +10617,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "90s", "green", "superhero", "tough"],
-      "vibeTags": ["nostalgic", "edgy", "cool"]
+      "archetypeTags": [
+        "cartoon",
+        "90s",
+        "green",
+        "superhero",
+        "tough"
+      ],
+      "vibeTags": [
+        "nostalgic",
+        "edgy",
+        "cool"
+      ]
     },
     "images": {
       "primary": {
@@ -8798,8 +10684,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["cartoon", "glasses", "orange", "detective", "nerd"],
-      "vibeTags": ["clever", "easy", "iconic", "recognizable"]
+      "archetypeTags": [
+        "cartoon",
+        "glasses",
+        "orange",
+        "detective",
+        "nerd"
+      ],
+      "vibeTags": [
+        "clever",
+        "easy",
+        "iconic",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -8855,8 +10752,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["disney", "bear", "yellow", "honey", "meme"],
-      "vibeTags": ["funny", "easy", "recognizable"]
+      "archetypeTags": [
+        "disney",
+        "bear",
+        "yellow",
+        "honey",
+        "meme"
+      ],
+      "vibeTags": [
+        "funny",
+        "easy",
+        "recognizable"
+      ]
     },
     "images": {
       "primary": {
@@ -8912,8 +10819,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["mascot", "red", "drink", "round", "loud"],
-      "vibeTags": ["funny", "iconic", "showstopper"]
+      "archetypeTags": [
+        "mascot",
+        "red",
+        "drink",
+        "round",
+        "loud"
+      ],
+      "vibeTags": [
+        "funny",
+        "iconic",
+        "showstopper"
+      ]
     },
     "images": {
       "primary": {
@@ -8969,8 +10886,19 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "mittens", "grumpy", "political", "winter"],
-      "vibeTags": ["funny", "viral", "easy", "topical"]
+      "archetypeTags": [
+        "meme",
+        "mittens",
+        "grumpy",
+        "political",
+        "winter"
+      ],
+      "vibeTags": [
+        "funny",
+        "viral",
+        "easy",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -9026,8 +10954,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["mascot", "clown", "fast-food", "red", "yellow"],
-      "vibeTags": ["recognizable", "funny", "retro"]
+      "archetypeTags": [
+        "mascot",
+        "clown",
+        "fast-food",
+        "red",
+        "yellow"
+      ],
+      "vibeTags": [
+        "recognizable",
+        "funny",
+        "retro"
+      ]
     },
     "images": {
       "primary": {
@@ -9082,8 +11020,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["mascot", "purple", "round", "mcdonalds", "meme"],
-      "vibeTags": ["funny", "viral", "topical"]
+      "archetypeTags": [
+        "mascot",
+        "purple",
+        "round",
+        "mcdonalds",
+        "meme"
+      ],
+      "vibeTags": [
+        "funny",
+        "viral",
+        "topical"
+      ]
     },
     "images": {
       "primary": {
@@ -9138,8 +11086,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["meme", "gorilla", "viral", "tribute", "2016"],
-      "vibeTags": ["funny", "nostalgic", "edgy"]
+      "archetypeTags": [
+        "meme",
+        "gorilla",
+        "viral",
+        "tribute",
+        "2016"
+      ],
+      "vibeTags": [
+        "funny",
+        "nostalgic",
+        "edgy"
+      ]
     },
     "images": {
       "primary": {
@@ -9194,8 +11152,18 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["creepy", "suit", "faceless", "horror", "internet"],
-      "vibeTags": ["scary", "internet", "mysterious"]
+      "archetypeTags": [
+        "creepy",
+        "suit",
+        "faceless",
+        "horror",
+        "internet"
+      ],
+      "vibeTags": [
+        "scary",
+        "internet",
+        "mysterious"
+      ]
     },
     "images": {
       "primary": {
@@ -9253,16 +11221,33 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["ogre", "green", "funny", "meme", "dreamworks"],
-      "vibeTags": ["funny", "iconic", "meme"]
+      "archetypeTags": [
+        "ogre",
+        "green",
+        "funny",
+        "meme",
+        "dreamworks"
+      ],
+      "vibeTags": [
+        "funny",
+        "iconic",
+        "meme"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 808,
-        "imagePath": "/i0BNApgfnO5GJaT2dsJUVZTXrGV.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 12073,
+        "personName": "Mike Myers"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 808,
+          "imagePath": "/i0BNApgfnO5GJaT2dsJUVZTXrGV.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "GET OUT OF MY SWAMP. Shrek is love, Shrek is life. Onion layers jokes."
   },
@@ -9312,16 +11297,33 @@
       "skinToneChangeImplied": false
     },
     "similarity": {
-      "archetypeTags": ["ogre", "green", "princess", "medieval", "couple"],
-      "vibeTags": ["funny", "couples-costume", "fun"]
+      "archetypeTags": [
+        "ogre",
+        "green",
+        "princess",
+        "medieval",
+        "couple"
+      ],
+      "vibeTags": [
+        "funny",
+        "couples-costume",
+        "fun"
+      ]
     },
     "images": {
       "primary": {
-        "kind": "tmdb",
-        "tmdbId": 809,
-        "imagePath": "/kOVd5Mx7qCkjO0H5N5wRvZpGSJi.jpg",
-        "imageType": "poster"
-      }
+        "kind": "tmdb_person",
+        "personId": 6941,
+        "personName": "Cameron Diaz"
+      },
+      "alternatives": [
+        {
+          "kind": "tmdb",
+          "tmdbId": 809,
+          "imagePath": "/kOVd5Mx7qCkjO0H5N5wRvZpGSJi.jpg",
+          "imageType": "poster"
+        }
+      ]
     },
     "notes": "Best as a couples costume with Shrek. Can do martial arts moves."
   }

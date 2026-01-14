@@ -20,6 +20,13 @@ export const TmdbImageSourceSchema = z.object({
   mediaType: z.enum(["movie", "tv"]).optional().default("movie"),
 });
 
+// TMDB Person (Actor) image source
+export const TmdbPersonImageSourceSchema = z.object({
+  kind: z.literal("tmdb_person"),
+  personId: z.number(), // TMDB person ID
+  personName: z.string(), // Actor name for attribution
+});
+
 export const WikimediaImageSourceSchema = z.object({
   kind: z.literal("wikimedia"),
   fileTitle: z.string(),
@@ -38,6 +45,7 @@ export const ManualImageSourceSchema = z.object({
 
 export const ImageSourceSchema = z.discriminatedUnion("kind", [
   TmdbImageSourceSchema,
+  TmdbPersonImageSourceSchema,
   WikimediaImageSourceSchema,
   ManualImageSourceSchema,
 ]);
