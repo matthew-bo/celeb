@@ -1,8 +1,8 @@
 /**
  * Hard Constraint Filtering
  *
- * Reference: README.md §6.1 Deterministic filter
  * Applies hard constraints BEFORE LLM is called.
+ * Note: Safety filters and universe filtering removed per design decision.
  */
 
 import type { Costume, QuizResponse } from "./schema";
@@ -16,53 +16,16 @@ export function filterByConstraints(
   quiz: QuizResponse
 ): Costume[] {
   return costumes.filter((costume) => {
-    // Safety boundary filters
-    if (
-      quiz.boundaries.avoidCultureSpecific &&
-      costume.safety.cultureSpecific
-    ) {
-      return false;
-    }
-
-    if (quiz.boundaries.avoidReligious && costume.safety.religiousAttire) {
-      return false;
-    }
-
-    if (quiz.boundaries.avoidPolitical && costume.safety.politicalFigure) {
-      return false;
-    }
-
-    if (quiz.boundaries.avoidControversial && costume.safety.controversial) {
-      return false;
-    }
-
-    // Skin tone change is always excluded if boundary is set (default ON)
-    if (
-      quiz.boundaries.noSkinToneChange &&
-      costume.safety.skinToneChangeImplied
-    ) {
-      return false;
-    }
-
     // Wig requirement filter
     if (quiz.boundaries.avoidWigs && costume.requirements.wigRequired) {
       return false;
     }
 
-    // Face paint filter (includes body paint per §18)
+    // Face paint filter (includes body paint)
     if (
       quiz.boundaries.avoidFacePaint &&
       (costume.requirements.facePaintRequired ||
         costume.requiresBodyPaintOrFullFacePaint)
-    ) {
-      return false;
-    }
-
-    // Universe filter (unless "Surprise me" - empty array or all selected)
-    if (
-      quiz.universes.length > 0 &&
-      quiz.universes.length < 5 &&
-      !quiz.universes.includes(costume.universe)
     ) {
       return false;
     }

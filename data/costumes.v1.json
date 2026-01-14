@@ -219,7 +219,8 @@
         }
       ]
     },
-    "notes": "Carry a White Russian for the full effect. The bathrobe version exists but is less bar-friendly."
+    "notes": "Carry a White Russian for the full effect. The bathrobe version exists but is less bar-friendly.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_mia_wallace",
@@ -367,7 +368,8 @@
         }
       ]
     },
-    "notes": "The 'I am Kenough' hoodie version is also valid. Commit to the confidence."
+    "notes": "The 'I am Kenough' hoodie version is also valid. Commit to the confidence.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_freddie_mercury_liveaid",
@@ -998,7 +1000,8 @@
         "fileTitle": "File:Richard_Simmons_2007.jpg"
       }
     },
-    "notes": "The energy is everything. Be LOUD and enthusiastic."
+    "notes": "The energy is everything. Be LOUD and enthusiastic.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_80s_aerobics",
@@ -1067,7 +1070,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "More neon = better. Leg warmers are non-negotiable."
+    "notes": "More neon = better. Leg warmers are non-negotiable.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_ted_lasso",
@@ -1354,7 +1358,8 @@
         "fileTitle": "File:Bernie_Sanders_in_January_2021.jpg"
       }
     },
-    "notes": "Sit in a folding chair looking cold and annoyed. The mittens are everything."
+    "notes": "Sit in a folding chair looking cold and annoyed. The mittens are everything.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_thisisfindog",
@@ -1422,7 +1427,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Deadpan 'This is fine' delivery is essential. Add fake flames around you."
+    "notes": "Deadpan 'This is fine' delivery is essential. Add fake flames around you.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_npc",
@@ -1489,7 +1495,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Stay in character. Repeat the same phrases. Move robotically."
+    "notes": "Stay in character. Repeat the same phrases. Move robotically.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_doge",
@@ -1556,7 +1563,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini%2C_portrait_of_Doge_Leonardo_Loredan.jpg"
       }
     },
-    "notes": "Carry signs with doge-speak. 'Wow. Such Halloween. Very costume.'"
+    "notes": "Carry signs with doge-speak. 'Wow. Such Halloween. Very costume.'",
+    "funnyExtreme": true
   },
   {
     "id": "cos_marty_mcfly",
@@ -1853,7 +1861,8 @@
         }
       ]
     },
-    "notes": "Practice the dance. Say 'GOSH' a lot. Offer people tots."
+    "notes": "Practice the dance. Say 'GOSH' a lot. Offer people tots.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_regina_george",
@@ -2005,7 +2014,8 @@
         }
       ]
     },
-    "notes": "Stay in character. Answer everything with 'False' or beet facts."
+    "notes": "Stay in character. Answer everything with 'False' or beet facts.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_jack_sparrow",
@@ -2451,7 +2461,8 @@
         }
       ]
     },
-    "notes": "Say the name three times. The moldier the look, the better."
+    "notes": "Say the name three times. The moldier the look, the better.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_skeleton",
@@ -2968,7 +2979,8 @@
         }
       ]
     },
-    "notes": "Speak in gibberish all night. BANANA!"
+    "notes": "Speak in gibberish all night. BANANA!",
+    "funnyExtreme": true
   },
   {
     "id": "cos_edward_scissorhands",
@@ -3575,7 +3587,8 @@
         }
       ]
     },
-    "notes": "Carry around candy. Quote the movie constantly. Be mysterious."
+    "notes": "Carry around candy. Quote the movie constantly. Be mysterious.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_dorothy_oz",
@@ -3719,7 +3732,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Follow people around asking if they've done their daily lesson. Be passive-aggressive."
+    "notes": "Follow people around asking if they've done their daily lesson. Be passive-aggressive.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_roman_roy",
@@ -3938,7 +3952,8 @@
         "fileTitle": "File:Joe_Rogan_2019_by_Gage_Skidmore.jpg"
       }
     },
-    "notes": "Start every sentence with 'It's entirely possible...' Bring up DMT unprompted."
+    "notes": "Start every sentence with 'It's entirely possible...' Bring up DMT unprompted.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_gordon_ramsay",
@@ -4005,7 +4020,8 @@
         "fileTitle": "File:Gordon_Ramsay.jpg"
       }
     },
-    "notes": "Yell 'IT'S RAW!' at everything. Call people donuts. Touch your forehead in frustration."
+    "notes": "Yell 'IT'S RAW!' at everything. Call people donuts. Touch your forehead in frustration.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_george_costanza",
@@ -4081,7 +4097,8 @@
         }
       ]
     },
-    "notes": "Lie about being an architect or marine biologist. Complain constantly. Act like you're important."
+    "notes": "Lie about being an architect or marine biologist. Complain constantly. Act like you're important.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_larry_david",
@@ -4157,7 +4174,8 @@
         }
       ]
     },
-    "notes": "Question every social norm. Get into petty arguments. Stare in disbelief constantly."
+    "notes": "Question every social norm. Get into petty arguments. Stare in disbelief constantly.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_sherlock_holmes",
@@ -4682,7 +4700,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:A_comic_history_of_the_United_States_(1880)_(14761698024).jpg"
       }
     },
-    "notes": "Act like an old-money gentleman. Casually mention you're 'just a peanut, really.' Very dry humor."
+    "notes": "Act like an old-money gentleman. Casually mention you're 'just a peanut, really.' Very dry humor.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_monopoly_man_laidoff",
@@ -4751,7 +4770,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Look defeated. Explain you landed on someone else's hotel. Ask to borrow $200."
+    "notes": "Look defeated. Explain you landed on someone else's hotel. Ask to borrow $200.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_forrest_gump",
@@ -4827,7 +4847,8 @@
         }
       ]
     },
-    "notes": "Sit on benches and tell stories to strangers. Run randomly. Offer chocolates."
+    "notes": "Sit on benches and tell stories to strangers. Run randomly. Offer chocolates.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_james_bond_casual",
@@ -5047,7 +5068,8 @@
         "fileTitle": "File:Neil_deGrasse_Tyson_in_June_2017_(cropped).jpg"
       }
     },
-    "notes": "Correct everyone's science facts. Get very excited about the cosmos. Use big hand gestures."
+    "notes": "Correct everyone's science facts. Get very excited about the cosmos. Use big hand gestures.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_david_goggins",
@@ -5115,7 +5137,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:DavidGogginsMay08.jpg"
       }
     },
-    "notes": "Tell everyone to stay hard. Call people out for being soft. Do random push-ups."
+    "notes": "Tell everyone to stay hard. Call people out for being soft. Do random push-ups.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_mark_zuckerberg",
@@ -5183,7 +5206,8 @@
         "fileTitle": "File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717)_(cropped).jpg"
       }
     },
-    "notes": "Move robotically. Apply sunscreen constantly. Ask if people want to join the metaverse."
+    "notes": "Move robotically. Apply sunscreen constantly. Ask if people want to join the metaverse.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_michael_scott",
@@ -5259,7 +5283,8 @@
         }
       ]
     },
-    "notes": "Say 'That's what she said' constantly. Declare things as 'win-win-win.' Be obliviously offensive."
+    "notes": "Say 'That's what she said' constantly. Declare things as 'win-win-win.' Be obliviously offensive.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_ronald_mcdonald_human",
@@ -5327,7 +5352,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_Marines_April_2015.jpg"
       }
     },
-    "notes": "Look exhausted. Complain about working conditions. Ask if anyone wants fries with that."
+    "notes": "Look exhausted. Complain about working conditions. Ask if anyone wants fries with that.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_kanye_west",
@@ -5394,7 +5420,8 @@
         "fileTitle": "File:Kanye_West_at_the_2009_Tribeca_Film_Festival-2.jpg"
       }
     },
-    "notes": "Speak in philosophical tangents. Declare yourself a genius. Stay eerily calm."
+    "notes": "Speak in philosophical tangents. Declare yourself a genius. Stay eerily calm.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_peter_parker_civilian",
@@ -5539,7 +5566,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Keep going and going... but look completely drained. Complain about never being able to stop."
+    "notes": "Keep going and going... but look completely drained. Complain about never being able to stop.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_tony_tiger_human",
@@ -5607,7 +5635,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Say 'They're... okay' instead of 'GREAT!' Look like the enthusiasm has faded."
+    "notes": "Say 'They're... okay' instead of 'GREAT!' Look like the enthusiasm has faded.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_joker_trying_normal",
@@ -5683,7 +5712,8 @@
         }
       ]
     },
-    "notes": "Try very hard to be normal. Fail. Twitch occasionally. Laugh at inappropriate moments."
+    "notes": "Try very hard to be normal. Fail. Twitch occasionally. Laugh at inappropriate moments.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_god",
@@ -5752,7 +5782,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Nicoletto_da_Modena%2C_Francis_I_of_France_as_an_Antique_God%2C_c._1545%2C_oil_on_panel%2C_Paris%2C_Bibliotheque_Nationale.jpg"
       }
     },
-    "notes": "Answer prayers vaguely. Say 'I work in mysterious ways' to every question. Be serene."
+    "notes": "Answer prayers vaguely. Say 'I work in mysterious ways' to every question. Be serene.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_perry_platypus_human",
@@ -5828,7 +5859,8 @@
         }
       ]
     },
-    "notes": "Do not speak. Just chatter like a platypus. Disappear and reappear mysteriously."
+    "notes": "Do not speak. Just chatter like a platypus. Disappear and reappear mysteriously.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_barack_obama_casual",
@@ -5895,7 +5927,8 @@
         "fileTitle": "File:President_Barack_Obama.jpg"
       }
     },
-    "notes": "Vacation mode. Speak in calm, measured tones. Make references to Chicago."
+    "notes": "Vacation mode. Speak in calm, measured tones. Make references to Chicago.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_dennis_rodman",
@@ -5962,7 +5995,8 @@
         "fileTitle": "File:Dennis_Rodman_1995.jpg"
       }
     },
-    "notes": "The wilder the better. Multiple hair colors if possible. Wedding dress version is advanced mode."
+    "notes": "The wilder the better. Multiple hair colors if possible. Wedding dress version is advanced mode.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_john_mcenroe",
@@ -6030,7 +6064,8 @@
         "fileTitle": "File:John_McEnroe_(2009)_2.jpg"
       }
     },
-    "notes": "Yell 'YOU CANNOT BE SERIOUS!' at everything. Argue with imaginary umpires."
+    "notes": "Yell 'YOU CANNOT BE SERIOUS!' at everything. Argue with imaginary umpires.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_geico_gecko_human",
@@ -6098,7 +6133,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Speak in a charming British accent. Try to sell everyone insurance. Be extremely polite."
+    "notes": "Speak in a charming British accent. Try to sell everyone insurance. Be extremely polite.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_smokey_bear_offduty",
@@ -6166,7 +6202,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Look exhausted from preventing fires. Passive-aggressively remind people about fire safety."
+    "notes": "Look exhausted from preventing fires. Passive-aggressively remind people about fire safety.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_pillsbury_doughboy",
@@ -6234,7 +6271,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Pillsbury_doughboy.jpg"
       }
     },
-    "notes": "Giggle when poked. Look financially stressed (no dough - get it?). Very wholesome energy."
+    "notes": "Giggle when poked. Look financially stressed (no dough - get it?). Very wholesome energy.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_kendall_roy",
@@ -6303,7 +6341,8 @@
         "imageType": "poster"
       }
     },
-    "notes": "Ready to perform L to the OG at any moment. Look like you're about to cry or kill someone."
+    "notes": "Ready to perform L to the OG at any moment. Look like you're about to cry or kill someone.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_shiv_roy",
@@ -6507,7 +6546,8 @@
         "attribution": "Generic costume placeholder"
       }
     },
-    "notes": "Wear the puffiest white jacket you can find. Carry a resume. Talk about tire ratings."
+    "notes": "Wear the puffiest white jacket you can find. Carry a resume. Talk about tire ratings.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_fight_club_narrator",
@@ -6955,7 +6995,8 @@
         "imageType": "poster"
       }
     },
-    "notes": "Combine self-deprecating humor with existential dread. Mention you were on a famous TV show."
+    "notes": "Combine self-deprecating humor with existential dread. Mention you were on a famous TV show.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_wes_anderson_character",
@@ -7024,7 +7065,8 @@
         "imageType": "poster"
       }
     },
-    "notes": "Center yourself in every photo. Speak in overly formal sentences. Everything is intentional."
+    "notes": "Center yourself in every photo. Speak in overly formal sentences. Everything is intentional.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_succession_logan_roy",
@@ -7245,7 +7287,8 @@
         }
       ]
     },
-    "notes": "Offer profound advice from strange positions. Look like you've been played with too hard."
+    "notes": "Offer profound advice from strange positions. Look like you've been played with too hard.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_white_lotus_guest",
@@ -7381,7 +7424,8 @@
         "fileTitle": "FTX_Pre-Season_Interviews_(52448021612)_(cropped).jpg"
       }
     },
-    "notes": "Carry a fake laptop. Look like you haven't slept in 72 hours and just lost $8 billion."
+    "notes": "Carry a fake laptop. Look like you haven't slept in 72 hours and just lost $8 billion.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_elizabeth_holmes",
@@ -7448,7 +7492,8 @@
         "fileTitle": "Elizabeth_Holmes_2014_(cropped).jpg"
       }
     },
-    "notes": "Practice the deep fake voice. Carry a fake blood test kit. Never blink."
+    "notes": "Practice the deep fake voice. Carry a fake blood test kit. Never blink.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_jeffrey_epstein",
@@ -8042,7 +8087,8 @@
         "fileTitle": "Elon_Musk_Royal_Society.jpg"
       }
     },
-    "notes": "Carry a sink. Fire everyone you talk to. Tweet controversial things. Do the awkward dance."
+    "notes": "Carry a sink. Fire everyone you talk to. Tweet controversial things. Do the awkward dance.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_logan_paul",
@@ -8108,7 +8154,8 @@
         "fileTitle": "Logan_Paul_2018.jpg"
       }
     },
-    "notes": "Carry Prime bottles everywhere. Film everyone. Be extremely loud."
+    "notes": "Carry Prime bottles everywhere. Film everyone. Be extremely loud.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_ellen_degeneres",
@@ -8174,7 +8221,8 @@
         "fileTitle": "Ellen_DeGeneres_2011.jpg"
       }
     },
-    "notes": "Be overly nice on the surface. Dance awkwardly. Make passive aggressive comments."
+    "notes": "Be overly nice on the surface. Dance awkwardly. Make passive aggressive comments.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_hawk_tuah",
@@ -8241,7 +8289,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Haliey_Welch_at_DreamHack_Atlanta_2024.jpg"
       }
     },
-    "notes": "You must be prepared to say the thing. Only works if people know the meme."
+    "notes": "You must be prepared to say the thing. Only works if people know the meme.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_justin_bieber",
@@ -9037,7 +9086,8 @@
         "fileTitle": "Lady_Gaga_VMA_2010_meat_dress.jpg"
       }
     },
-    "notes": "Print meat images on fabric or buy fake plastic meat. Commitment piece."
+    "notes": "Print meat images on fabric or buy fake plastic meat. Commitment piece.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_madonna_cone",
@@ -10993,7 +11043,8 @@
         "attribution": "Kool-Aid"
       }
     },
-    "notes": "Burst through every door screaming 'OH YEAH!' Commit fully. Very cumbersome."
+    "notes": "Burst through every door screaming 'OH YEAH!' Commit fully. Very cumbersome.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_bernie_mittens_meme",
@@ -11060,7 +11111,8 @@
         "fileTitle": "Bernie_Sanders_(51855264822)_(cropped).jpg"
       }
     },
-    "notes": "Sit with arms crossed looking cold and annoyed. The mittens are everything."
+    "notes": "Sit with arms crossed looking cold and annoyed. The mittens are everything.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_ronald_mcdonald",
@@ -11128,7 +11180,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_Marines_April_2015.jpg"
       }
     },
-    "notes": "Ba da ba ba ba, I'm lovin' it. Creepy clown vibes if desired. Carry fries."
+    "notes": "Ba da ba ba ba, I'm lovin' it. Creepy clown vibes if desired. Carry fries.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_grimace",
@@ -11194,7 +11247,8 @@
         "pageUrl": "https://commons.wikimedia.org/wiki/File:McDonalds_Grimace_Shake.jpg"
       }
     },
-    "notes": "The Grimace Shake meme made him relevant again. Carry a purple shake. Be round."
+    "notes": "The Grimace Shake meme made him relevant again. Carry a purple shake. Be round.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_harambe",
@@ -11259,7 +11313,8 @@
         "fileTitle": "Harambe_at_Gladys_Porter_Zoo.jpg"
       }
     },
-    "notes": "Dicks out for Harambe. Gone but not forgotten. Peak 2016 energy."
+    "notes": "Dicks out for Harambe. Gone but not forgotten. Peak 2016 energy.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_slenderman",
@@ -11403,7 +11458,8 @@
         }
       ]
     },
-    "notes": "GET OUT OF MY SWAMP. Shrek is love, Shrek is life. Onion layers jokes."
+    "notes": "GET OUT OF MY SWAMP. Shrek is love, Shrek is life. Onion layers jokes.",
+    "funnyExtreme": true
   },
   {
     "id": "cos_fiona_ogre",

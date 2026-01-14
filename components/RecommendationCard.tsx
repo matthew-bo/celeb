@@ -4,9 +4,9 @@
  * RecommendationCard Component
  *
  * Full costume recommendation card with:
+ * - Rank badge (#1, #2, #3)
  * - Reference image (2:3 aspect ratio)
  * - Title + difficulty badge
- * - "Why it matches" bullets
  * - Anchor item + shopping list
  * - Substitutions + warnings
  *
@@ -16,13 +16,14 @@
 import { useState } from "react";
 import Image from "next/image";
 import type { Recommendation } from "@/lib/schema";
-import { ChevronDown, ChevronUp, Check, AlertTriangle, Heart } from "./icons";
+import { ChevronDown, ChevronUp, AlertTriangle, Heart } from "./icons";
 
 interface RecommendationCardProps {
   recommendation: Recommendation;
   isSelected?: boolean;
   onMoreLikeThis: () => void;
   index: number;
+  rank?: number; // Display rank (1, 2, 3) - if provided, shows rank badge
   compact?: boolean;
 }
 
@@ -31,6 +32,7 @@ export function RecommendationCard({
   isSelected = false,
   onMoreLikeThis,
   index,
+  rank,
   compact = false,
 }: RecommendationCardProps) {
   const [isExpanded, setIsExpanded] = useState(!compact);
@@ -39,7 +41,6 @@ export function RecommendationCard({
   const {
     title,
     image,
-    whyItMatches,
     difficulty,
     anchorItem,
     shoppingList,
@@ -111,32 +112,24 @@ export function RecommendationCard({
               {difficulty}
             </span>
           </div>
+
+          {/* Rank badge overlay */}
+          {rank && (
+            <div className="absolute top-3 right-3">
+              <span className="flex items-center justify-center w-10 h-10 rounded-full bg-zinc-900/90 dark:bg-zinc-100/90 text-white dark:text-zinc-900 font-bold text-lg shadow-lg">
+                #{rank}
+              </span>
+            </div>
+          )}
         </div>
 
         {/* Content section */}
         <div className="flex-1 p-4 sm:p-5">
-          {/* Title */}
-          <h3 className="text-lg sm:text-xl font-bold text-zinc-900 dark:text-zinc-100 mb-2">
+          {/* Title with rank for accessibility */}
+          <h3 className="text-lg sm:text-xl font-bold text-zinc-900 dark:text-zinc-100 mb-3">
+            {rank && <span className="sr-only">#{rank} Match: </span>}
             {title}
           </h3>
-
-          {/* Why it matches */}
-          <div className="mb-3">
-            <h4 className="text-xs font-medium uppercase tracking-wide text-zinc-400 dark:text-zinc-500 mb-1.5">
-              Why this slaps
-            </h4>
-            <ul className="space-y-1">
-              {whyItMatches.map((reason, idx) => (
-                <li
-                  key={idx}
-                  className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-300"
-                >
-                  <Check className="w-3.5 h-3.5 text-accent shrink-0 mt-0.5" />
-                  <span>{reason}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
 
           {/* Anchor item highlight */}
           <div className="mb-3 p-2.5 rounded-lg bg-accent/5 dark:bg-accent/10 border border-accent/20">

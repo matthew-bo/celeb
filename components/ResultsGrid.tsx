@@ -209,6 +209,7 @@ export function ResultsGrid({
             isSelected={selectedCostume?.costumeId === rec.costumeId}
             onMoreLikeThis={() => handleMoreLikeThis(rec)}
             index={idx}
+            rank={idx + 1}
           />
         ))}
       </div>

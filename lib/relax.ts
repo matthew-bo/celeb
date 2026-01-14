@@ -27,9 +27,6 @@ function relaxQuiz(
       case "era":
         relaxed.era = "any";
         break;
-      case "universe":
-        relaxed.universes = []; // Empty = all universes
-        break;
       case "budget": {
         const budgetOrder = ["lt_30", "30_75", "75_150", "dont_care"] as const;
         const currentBudgetIndex = budgetOrder.indexOf(relaxed.budget);
@@ -56,18 +53,18 @@ function relaxQuiz(
  * Apply relaxation ladder to get enough results.
  * 
  * Relaxation order:
- * 1. Keep boundaries STRICT (never relax)
- * 2. Relax era → soft preference
- * 3. Expand universe
- * 4. Relax budget up one tier
- * 5. Relax effort up one tier
+ * 1. Relax era → soft preference
+ * 2. Relax budget up one tier
+ * 3. Relax effort up one tier
+ * 
+ * Note: Universe and safety filters removed from hard filters.
  */
 export function applyRelaxationLadder(
   allCostumes: Costume[],
   quiz: QuizResponse,
   minResults: number = 5
 ): RelaxationResult {
-  const relaxationSteps = ["era", "universe", "budget", "effort"];
+  const relaxationSteps = ["era", "budget", "effort"];
   const appliedRelaxations: string[] = [];
 
   // Start with hard filters only
@@ -102,8 +99,6 @@ export function formatRelaxationMessage(relaxations: string[]): string | null {
     switch (r) {
       case "era":
         return "Era";
-      case "universe":
-        return "Universe";
       case "budget":
         return "Budget";
       case "effort":

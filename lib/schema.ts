@@ -126,6 +126,10 @@ export const CostumeSchema = z.object({
   // Added per README.md §18 - Characters with non-human skin
   requiresBodyPaintOrFullFacePaint: z.boolean().optional().default(false),
 
+  // Flag for funny/extreme/absurd costumes that make a strong impression
+  // At least one of these should appear in final recommendations
+  funnyExtreme: z.boolean().optional().default(false),
+
   similarity: z.object({
     archetypeTags: z.array(z.string()), // e.g., ["suit", "sunglasses", "cool"]
     vibeTags: z.array(z.string()), // e.g., ["stylish", "recognizable"]

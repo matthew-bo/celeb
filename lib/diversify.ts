@@ -1,8 +1,8 @@
 /**
  * Diversity Rules
  *
- * Reference: README.md §6.3 Candidate shortlist
  * Ensures variety in recommendations.
+ * Includes ensuring at least 1 funny/extreme option.
  */
 
 import type { ScoredCostume } from "./score";
@@ -106,5 +106,40 @@ export function ensureUniverseDiversity(
   }
 
   return candidates;
+}
+
+/**
+ * Ensure at least 1 funny/extreme costume in top 3.
+ * If none exist in top 3, promote the highest-scoring funnyExtreme costume.
+ */
+export function ensureFunnyExtreme(
+  candidates: ScoredCostume[]
+): ScoredCostume[] {
+  if (candidates.length <= 3) {
+    return candidates;
+  }
+
+  // Check if top 3 already has a funnyExtreme
+  const top3 = candidates.slice(0, 3);
+  const hasFunnyExtreme = top3.some((c) => c.funnyExtreme);
+
+  if (hasFunnyExtreme) {
+    return candidates; // Already have one
+  }
+
+  // Find the highest-scoring funnyExtreme outside top 3
+  const remaining = candidates.slice(3);
+  const funnyExtremeIndex = remaining.findIndex((c) => c.funnyExtreme);
+
+  if (funnyExtremeIndex === -1) {
+    return candidates; // No funnyExtreme costumes available
+  }
+
+  // Swap the funnyExtreme into position 3 (replacing the 3rd spot)
+  const result = [...candidates];
+  const [funnyCandidate] = result.splice(3 + funnyExtremeIndex, 1);
+  result.splice(2, 0, funnyCandidate); // Insert at position 3
+
+  return result;
 }
 
